@@ -124,7 +124,7 @@ Q: yield
 A: <p><strong>yield </strong>[jiːld]</p><empty-line /><p>①<emphasis> v. </emphasis>to produce or provide sth., for example a profit, result or crop 出产（作物）；产生（收益、效益）</p><p>The research has <strong><emphasis>yielded</emphasis></strong> useful information. 这项研究提供了有用的资料。</p><p>② <emphasis>n. </emphasis>the total amount of crops, profits, etc. that are produced 产量；产出；利润</p><p>Subsidies for pesticides and artificial fertilizers encourage farmers to use greater quantities than are needed to get the highest economic crop <strong><emphasis>yield</emphasis></strong>. 政府在杀虫剂和人造化肥上的补贴鼓励了农民对其过量使用以达到最高的经济作物产出量。</p>
 
 Q: youngster 
-A: <p><strong>youngster </strong>[ˈjʌŋstə(r)] [同] juvenile</p><p><emphasis>n. </emphasis>(infml.) a young person or a child 年轻人；少年；儿童</p><p>The camp is for <strong><emphasis>youngsters</emphasis></strong> aged 8 to 14. 这次夏令营是为8至14岁的少年儿童安排的。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>youngster </strong>[ˈjʌŋstə(r)] [同] juvenile</p><p><emphasis>n. </emphasis>(infml.) a young person or a child 年轻人；少年；儿童</p><p>The camp is for <strong><emphasis>youngsters</emphasis></strong> aged 8 to 14. 这次夏令营是为8至14岁的少年儿童安排的。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: abandon 
 A: <p><strong>abandon </strong>[əˈbændən] [同] desert, forsake [反] reclaim</p><p><emphasis>v. </emphasis>to leave a thing or place, esp. because it is impossible or dangerous to stay 离弃；舍弃</p><p>Over the past 40 years, most people have <strong><emphasis>abandoned</emphasis></strong> their nomadic ways, but they still rely heavily on nature to provide food and clothing. 在过去的40年里，大部分人放弃了游牧生活，但他们仍然在很大程度上依赖大自然提供衣食来源。</p>
@@ -250,7 +250,7 @@ Q: worship
 A: <p><strong>worship </strong>[ˈwɜːʃip] [同] ① adore ② adoration</p><p>①<emphasis>v. </emphasis>to love and admire sb. very much, esp. so much that you cannot see their faults 爱慕；崇拜（尤指达到看不到缺点的地步）</p><p>Christians <strong><emphasis>worship</emphasis></strong> God. 基督教徒信仰上帝。</p><p>② <emphasis>n. </emphasis>a strong feeling of love and respect for sb./sth. 崇拜；爱慕</p><p>What she feels for him is akin to <strong><emphasis>worship</emphasis></strong>. 她对他的感情近乎崇拜。</p>
 
 Q: wrap 
-A: <p><strong>wrap </strong>[ræp] [同] enfold [反] unwrap</p><p><emphasis>v. </emphasis>to cover sth. completely in paper or other material, for example when you are giving it as a present 包，裹（礼物等）</p><p>He spent the evening <strong><emphasis>wrapping</emphasis></strong> up the Christmas presents. 他花了一个晚上的时间包圣诞礼物。</p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>wrap </strong>[ræp] [同] enfold [反] unwrap</p><p><emphasis>v. </emphasis>to cover sth. completely in paper or other material, for example when you are giving it as a present 包，裹（礼物等）</p><p>He spent the evening <strong><emphasis>wrapping</emphasis></strong> up the Christmas presents. 他花了一个晚上的时间包圣诞礼物。</p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: academic 
 A: <p><strong>academic </strong>[ˌækəˈdemɪk] [同] scholastic</p><p><emphasis>adj. </emphasis>relating to education, esp. at college or university level 学业的，学术的</p><p>This new welfare service is open to all students at London's <strong><emphasis>academic</emphasis></strong> institutions. 这项新的福利措施适用于伦敦学术机构的所有学生。</p>
@@ -376,7 +376,7 @@ Q: shelter
 A: <p><strong>shelter </strong>[ˈʃeltə(r)]</p><empty-line /><p>① <emphasis>n. </emphasis>a place to live, considered as one of the basic needs of life 住所</p><p>② <emphasis>v. </emphasis>to give shelter to sb./sth.; protect sb./sth. 给某人/某物提供庇护处；保护某人/某物</p><p>Is our country's industry <strong><emphasis>sheltered</emphasis></strong> from foreign competition? 我国的工业在与外国竞争时是否有足够的保障?</p>
 
 Q: shift 
-A: <p><strong>shift </strong>[ʃɪft]</p><empty-line /><p><emphasis>v. </emphasis>to (cause sth./sb./oneself to) change or move from one position or direction to another（使某物/某人/自己）改变位置或方向</p><p>He <strong><emphasis>shifted</emphasis></strong> his focus to designing buildings. 他把自己关注的焦点转移到了建筑设计上。</p><empty-line /><p>___________________________________</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>shift </strong>[ʃɪft]</p><empty-line /><p><emphasis>v. </emphasis>to (cause sth./sb./oneself to) change or move from one position or direction to another（使某物/某人/自己）改变位置或方向</p><p>He <strong><emphasis>shifted</emphasis></strong> his focus to designing buildings. 他把自己关注的焦点转移到了建筑设计上。</p><empty-line /><p>___________________________________</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: accommodate 
 A: <p><strong>accommodate </strong>[əˈkɒmədeit] [同] ② adapt ① hold</p><p><emphasis>v. </emphasis>① to provide with a place to live or to be stored in 容纳，提供住宿 ② (fml.) to get used to a new situation 适应</p><p>A variety of different organizational structures have evolved over time to <strong><emphasis>accommodate</emphasis></strong> the needs of both the company and society. 各种不同的组织结构不断出现和发展以适应公司和社会的需要。</p>
@@ -502,7 +502,7 @@ Q: shrink
 A: <p><strong>shrink </strong>[ʃrɪŋk] [同] contract, compress</p><p><emphasis>v. </emphasis>to(cause sth. to) become smaller, esp. because of moisture or heat or cold（使某物）收缩（尤指因受潮、受热或受凉所致）；萎缩</p><p>Employees who had been putting in 12-hour days, six days a week, found their time on the job <strong><emphasis>shrinking</emphasis></strong> to 10 hours daily. 原来每周工作6天、每天12个小时的雇员们发现工作时间减少到了每天10小时。</p>
 
 Q: sigh 
-A: <p><strong>sigh </strong>[saɪ]</p><empty-line /><p><emphasis>v. </emphasis>to take a long deep breath that can be heard, expressing sadness, tiredness, relief, etc. 叹息；叹气</p><p>He <strong><emphasis>sighed</emphasis></strong> with pleasure after the excellent meal. 他美餐一顿之后，满足地叹了口气。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>sigh </strong>[saɪ]</p><empty-line /><p><emphasis>v. </emphasis>to take a long deep breath that can be heard, expressing sadness, tiredness, relief, etc. 叹息；叹气</p><p>He <strong><emphasis>sighed</emphasis></strong> with pleasure after the excellent meal. 他美餐一顿之后，满足地叹了口气。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: accomplish 
 A: <p><strong>accomplish </strong>[əˈkʌmplɪʃ] [同] achieve, attain</p><p><emphasis>v. </emphasis>to succeed in doing something, esp. after trying very hard 完成（尤指克服了极大困难）</p><p>People discover that, once they learn to plan their days, all the work can be <strong><emphasis>accomplished</emphasis></strong> and there'll still be time for leisure. 人们发现一旦自己学会了做计划，所有的工作都可以完成，而且还有时间放松一下。</p>
@@ -754,7 +754,7 @@ Q: taboo
 A: <p><strong>taboo </strong>[təˈbuː, təˈbu] [近] forbiddance</p><p><emphasis>n. </emphasis>(in certain cultures) ban or prohibition on sth. that is regarded for religious or other reasons as not to be done, touched, used, etc. （某些文化的）禁忌，忌讳</p><p>Until a few years ago, there was a <strong><emphasis>taboo</emphasis></strong> around the subject of divorce. 就在几年前离婚还是一个人们所忌讳的话题。</p>
 
 Q: tackle 
-A: <p><strong>tackle </strong>[ˈtækl]</p><empty-line /><p><emphasis>v. </emphasis>to deal with or overcome (an awkward problem, a difficult piece of work, etc.) 应付，对付，处理（棘手的问题、困难的工作等）</p><p>The introduction to the essay should explain to the reader how you are going to <strong><emphasis>tackle</emphasis></strong> the question. 你在这篇论文的引言部分应该向读者说明将如何解决这个问题。</p><empty-line /><p>——美国总统肯尼迪<emphasis>(</emphasis>John Kennedy, American president<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>tackle </strong>[ˈtækl]</p><empty-line /><p><emphasis>v. </emphasis>to deal with or overcome (an awkward problem, a difficult piece of work, etc.) 应付，对付，处理（棘手的问题、困难的工作等）</p><p>The introduction to the essay should explain to the reader how you are going to <strong><emphasis>tackle</emphasis></strong> the question. 你在这篇论文的引言部分应该向读者说明将如何解决这个问题。</p><empty-line /><p>——美国总统肯尼迪<emphasis>(</emphasis>John Kennedy, American president<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: acid 
 A: <p><strong>acid </strong>[ˈæsɪd]</p><empty-line /><p><emphasis>n. </emphasis>a chemical substance that has a PH of less than 7 酸</p><p><strong><emphasis>Acid</emphasis></strong> rain is a problem facing many countries at the moment, and a global solution is required. 目前酸雨困扰着很多国家，因此我们需要一个全球范围内的解决方案。</p>
@@ -880,7 +880,7 @@ Q: tag
 A: <p><strong>tag </strong>[tæg] [同] ticket, label</p><p><emphasis>n. </emphasis>label fastened to or stuck into sth. to identify it, show its price, etc. 标签</p><p>put a name <strong><emphasis>tag</emphasis></strong> on it 附上名字标签</p>
 
 Q: tailor 
-A: <p><strong>tailor </strong>[ˈteɪlə] [同] ②adapt</p><p>① <emphasis>n. </emphasis>maker of men's clothes, esp. one who makes coats, jackets, etc. for individual customers（男装）裁缝，成衣匠</p><p>② <emphasis>v. </emphasis>to make something so that it is exactly right for someone's particular needs or for a particular purpose 定制</p><p>The classes are <strong><emphasis>tailored</emphasis></strong> to suit learners' needs. 这些课程是为了满足学习者的需求而量身定制的。</p><empty-line /><p>——英国小说家马里亚特<emphasis>(</emphasis>Frederick Marryat, British novelist<emphasis>)</emphasis></p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>tailor </strong>[ˈteɪlə] [同] ②adapt</p><p>① <emphasis>n. </emphasis>maker of men's clothes, esp. one who makes coats, jackets, etc. for individual customers（男装）裁缝，成衣匠</p><p>② <emphasis>v. </emphasis>to make something so that it is exactly right for someone's particular needs or for a particular purpose 定制</p><p>The classes are <strong><emphasis>tailored</emphasis></strong> to suit learners' needs. 这些课程是为了满足学习者的需求而量身定制的。</p><empty-line /><p>——英国小说家马里亚特<emphasis>(</emphasis>Frederick Marryat, British novelist<emphasis>)</emphasis></p><empty-line /><empty-line />
 
 Q: activate 
 A: <p><strong>activate </strong>[ˈæktɪveɪt] [同] vitalize</p><p><emphasis>v. </emphasis>to make an electrical system or chemical process start working 激活；使活化</p><p>The burglar alarm is <strong><emphasis>activated</emphasis></strong> by movement. 这防盗警报器一动就响。</p>
@@ -1006,7 +1006,7 @@ Q: talent
 A: <p></p><empty-line /><p><strong>talent </strong>[ˈtælənt] [同] gift</p><p><emphasis>n. </emphasis>(instance of) special or very great ability 特殊的能力；才能；才干；天才</p><p>The amateurs, he says, provide enthusiasm and <strong><emphasis>talent</emphasis></strong>, while the professionals provide guidance. 他说业余爱好者有热情和天分，而专业人员则提供指导。</p>
 
 Q: tame 
-A: <p><strong>tame </strong>[teɪm] [同] ① domestic</p><p>③ <emphasis>adj. </emphasis>(of animals) gentle and unafraid of human beings; not wild or fierce（指动物）驯服的，不怕人的，不凶猛的</p><p>a <strong><emphasis>tame</emphasis></strong> monkey 驯服的猴子</p><p>③ <emphasis>v. </emphasis>to make (sth.) tame or manageable 使（某物）驯服或顺从</p><p><strong><emphasis>tame</emphasis></strong> wild birds 调教野鸟</p><empty-line /><p>——美国女诗人穆尔<emphasis>(</emphasis>M. Moore, American poetess)</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>tame </strong>[teɪm] [同] ① domestic</p><p>③ <emphasis>adj. </emphasis>(of animals) gentle and unafraid of human beings; not wild or fierce（指动物）驯服的，不怕人的，不凶猛的</p><p>a <strong><emphasis>tame</emphasis></strong> monkey 驯服的猴子</p><p>③ <emphasis>v. </emphasis>to make (sth.) tame or manageable 使（某物）驯服或顺从</p><p><strong><emphasis>tame</emphasis></strong> wild birds 调教野鸟</p><empty-line /><p>——美国女诗人穆尔<emphasis>(</emphasis>M. Moore, American poetess)</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: adequate 
 A: <p><strong>adequate </strong>[ˈædɪkwɪt] [同] sufficient [反] inadequate</p><p><emphasis>adj. </emphasis>enough in quantity or of a good enough quality for a particular purpose 足够的；合格的</p><p>The traditional distinction between the old and new media is no longer <strong><emphasis>adequate</emphasis></strong> for understanding the world. 新旧媒体间的传统区分已不足以解释这个世界了。</p>
@@ -1132,7 +1132,7 @@ Q: target
 A: <p><strong>target </strong>[ˈtɑːgɪt]</p><empty-line /><p><emphasis>n. </emphasis>① something that you are trying to achieve, such as a total, an amount, or a time 目标 ② on target [习语]likely to achieve 可以实现的</p><p>The company says that growth of 10% is on <strong><emphasis>target</emphasis></strong>. 该公司称可以实现10%的增长。</p><p><emphasis>v. </emphasis>to make something have an effect on a particular limited group or area 针对；对准</p><p>The program is <strong><emphasis>targeted</emphasis></strong> at improving the health of women of all ages. 这个项目旨在改善各年龄段女性的健康状况。</p>
 
 Q: task 
-A: <p><strong>task </strong>[tɑːsk]</p><empty-line /><p><emphasis>n. </emphasis>a piece of work that must be done, especially one that is difficult or unpleasant or that must be done regularly 任务；工作</p><p>Our first <strong><emphasis>task</emphasis></strong> is to gather information. 我们的第一个任务就是搜集信息。</p><empty-line /><p>——英国小说家马里亚特<emphasis>(</emphasis>Frederick Marryat, British novelist<emphasis>)</emphasis></p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>task </strong>[tɑːsk]</p><empty-line /><p><emphasis>n. </emphasis>a piece of work that must be done, especially one that is difficult or unpleasant or that must be done regularly 任务；工作</p><p>Our first <strong><emphasis>task</emphasis></strong> is to gather information. 我们的第一个任务就是搜集信息。</p><empty-line /><p>——英国小说家马里亚特<emphasis>(</emphasis>Frederick Marryat, British novelist<emphasis>)</emphasis></p><empty-line /><empty-line />
 
 Q: administration 
 A: <p><strong>administration </strong>[ədˌmɪnɪsˈtreɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>(also BrE infml. admin) the activities that are involved in managing the work of a company or organization 管理，行政</p><p>The <strong><emphasis>administration</emphasis></strong> office is opposite the car park. 办公楼在停车场对面。</p>
@@ -1258,7 +1258,7 @@ Q: technique
 A: <p><strong>technique </strong>[tekˈniːk] [同] method</p><p><emphasis>n. </emphasis>method of doing or performing sth., esp. in the arts or sciences 技术；方法；手段；（尤指艺术或科学方面的）技法，手法，技巧</p><p>I found this to be a really effective <strong><emphasis>technique</emphasis></strong> because it saved lots of time. 我发现这种技术非常有效，因为其大大节省了时间。</p>
 
 Q: technology 
-A: <p><strong>technology </strong>[tekˈnɒlədʒi]</p><empty-line /><p><emphasis>n. </emphasis>new machines, equipment, and ways of doing things that are based on modern knowledge about science and computers 技术</p><p>Many people are unwilling to embrace new <strong><emphasis>technologies</emphasis></strong>. 很多人并不接受新科技。</p><empty-line /><p>——美国演员卓别林<emphasis>(</emphasis>Charles Chaplin, American actor<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>technology </strong>[tekˈnɒlədʒi]</p><empty-line /><p><emphasis>n. </emphasis>new machines, equipment, and ways of doing things that are based on modern knowledge about science and computers 技术</p><p>Many people are unwilling to embrace new <strong><emphasis>technologies</emphasis></strong>. 很多人并不接受新科技。</p><empty-line /><p>——美国演员卓别林<emphasis>(</emphasis>Charles Chaplin, American actor<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: admission 
 A: <p><strong>admission </strong>[ədˈmɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>the act of accepting sb. into an institution, organization, etc. 准许加入，入学</p><p>The admissions office is open Monday to Friday. 招生办公室周一至周五办公。</p>
@@ -1384,7 +1384,7 @@ Q: ultimate
 A: <p><strong>ultimate </strong>[ˈʌltɪmət] [同] ①last</p><p><emphasis>adj. </emphasis>① the ultimate result of a long process is what happens at the end of it 最终的；最后的 ② main and most important 最主要的；最重要的</p><p>Human welfare is the <strong><emphasis>ultimate</emphasis></strong> goal of economic activity. 人类的福祉是经济活动的最终目标。</p>
 
 Q: ultimately 
-A: <p><strong>ultimately </strong>[ˈʌltɪmətli] [同] eventually, finally</p><p><emphasis>adv. </emphasis>in the end; finally 最终；最后；终归</p><p>A poor diet will <strong><emphasis>ultimately</emphasis></strong> lead to illness. 不均衡的饮食终将导致疾病。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>ultimately </strong>[ˈʌltɪmətli] [同] eventually, finally</p><p><emphasis>adv. </emphasis>in the end; finally 最终；最后；终归</p><p>A poor diet will <strong><emphasis>ultimately</emphasis></strong> lead to illness. 不均衡的饮食终将导致疾病。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: adult 
 A: <p><strong>adult </strong>[ˈædʌlt] [同] grown-up</p><p><emphasis>adj.</emphasis>/<emphasis>n. </emphasis>a person or animal that has grown to full size and strength 成年（的）</p><p><strong><emphasis>Adults</emphasis></strong> and children are frequently confronted with statements about the alarming rate of loss of tropical rainforests. 无论是成人还是孩子都经常会发现一些关于热带雨林如何以惊人的速度消失的言论。</p>
@@ -1510,7 +1510,7 @@ Q: unbiased
 A: <p><strong>unbiased </strong>[ʌnˈbaɪəst] [近] just, fair</p><p><emphasis>adj. </emphasis>fair, not influenced by one's own or other people's opinions 没有偏见的；公正的</p><p>There is no such thing as <strong><emphasis>unbiased</emphasis></strong> news report. 这世界上就没有绝对公正的新闻报道。</p>
 
 Q: uncertainty 
-A: <p></p><empty-line /><p><strong>uncertainty </strong>[ʌnˈsɜːtənti]</p><empty-line /><p><emphasis>n. </emphasis>something that you cannot be sure about; a situation that causes you to be or feel uncertain 拿不定的事；令人无法把握的局面</p><p>life's <strong><emphasis>uncertainty</emphasis></strong> 人生的不可知因素</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p></p><empty-line /><p><strong>uncertainty </strong>[ʌnˈsɜːtənti]</p><empty-line /><p><emphasis>n. </emphasis>something that you cannot be sure about; a situation that causes you to be or feel uncertain 拿不定的事；令人无法把握的局面</p><p>life's <strong><emphasis>uncertainty</emphasis></strong> 人生的不可知因素</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: adventure 
 A: <p><strong>adventure </strong>[ədˈventʃə(r)]</p><empty-line /><p><emphasis>n. </emphasis>an exciting experience in which dangerous or unusual things happen 冒险；奇遇</p><p>a spirit of <strong><emphasis>adventure</emphasis></strong> 冒险精神</p>
@@ -1636,7 +1636,7 @@ Q: undergo
 A: <p><strong>undergo </strong>[ˌʌndəˈgəʊ] [同] experience</p><p><emphasis>v. </emphasis>to experience sth., especially a change or sth. unpleasant 经历；经受（变化、不快的事等）</p><p>For a relatively new industry it is not surprising that ecotourism has <strong><emphasis>undergone</emphasis></strong> teething pains. 生态旅行作为一个相对新兴的产业已经历了开始的痛苦时期，这不足为奇。</p>
 
 Q: underground 
-A: <p><strong>underground </strong>[ˌʌndəˈgraʊnd] [同] underearth</p><p><emphasis>adj. </emphasis>under the surface of the ground 地下的；地面以下的</p><p>There is an <strong><emphasis>underground</emphasis></strong> room in the old house. 在老房子里有一个地下室。</p><p>Take rhe Test</p><empty-line /><p><strong>一、英汉互译</strong></p><p>孤独的__________ poster __________</p><empty-line /><p><strong>二、翻译句子</strong></p><p>1) 缺少资金将对我们的研究项目有不利影响。(adverse)</p><p>2) 现代经济变得越来越相互依赖。(increasingly)</p><p>3) 房东告诉我最好给家具及其他私人财产上保险。(possession)</p><p>4) 科技的进步也导致了乡村工业的衰落。(rural)</p><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>underground </strong>[ˌʌndəˈgraʊnd] [同] underearth</p><p><emphasis>adj. </emphasis>under the surface of the ground 地下的；地面以下的</p><p>There is an <strong><emphasis>underground</emphasis></strong> room in the old house. 在老房子里有一个地下室。</p><p>Take rhe Test</p><empty-line /><p><strong>一、英汉互译</strong></p><p>孤独的__________ poster __________</p><empty-line /><p><strong>二、翻译句子</strong></p><p>1) 缺少资金将对我们的研究项目有不利影响。(adverse)</p><p>2) 现代经济变得越来越相互依赖。(increasingly)</p><p>3) 房东告诉我最好给家具及其他私人财产上保险。(possession)</p><p>4) 科技的进步也导致了乡村工业的衰落。(rural)</p><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: advocate 
 A: <p><strong>advocate </strong>[ˈædvəkət] [同] ②back ①②champion</p><p>① <emphasis>n. </emphasis>a person who supports sth. 拥护者；支持者</p><empty-line /><p>[ˈædvəkeIt]</p><p>② <emphasis>v. </emphasis>to support sth. publicly 拥护；提倡</p><p>The proposal <strong><emphasis>advocated</emphasis></strong> the creation of hundreds of urban villages. 该提议呼吁建立上百个城市卫星村。</p>
@@ -1762,7 +1762,7 @@ Q: underway
 A: <p><strong>underway </strong>[ʌndəˈweɪ]</p><empty-line /><p><emphasis>adj. </emphasis>happening now 正在进行中的</p><p>The project is already well <strong><emphasis>underway</emphasis></strong>. 这个项目已经开始实施了。</p>
 
 Q: zone 
-A: <p><strong>zone </strong>[zəʊn] [同] area</p><p><emphasis>n. </emphasis>an area or a region with a particular feature or use（有某种特色或作用的）地区，地带</p><p>The system wouldn't overcome the problem of different time <strong><emphasis>zones</emphasis></strong>. 这个系统不能解决时区不同所带来的问题。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>zone </strong>[zəʊn] [同] area</p><p><emphasis>n. </emphasis>an area or a region with a particular feature or use（有某种特色或作用的）地区，地带</p><p>The system wouldn't overcome the problem of different time <strong><emphasis>zones</emphasis></strong>. 这个系统不能解决时区不同所带来的问题。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: agenda 
 A: <p><strong>agenda </strong>[əˈdʒendə] [同] programme</p><p><emphasis>n. </emphasis>a list of the subjects to be discussed at a meeting 议程表，议事日程</p><p>Many consumers feel that government and business have taken on the environmental <strong><emphasis>agenda</emphasis></strong>. 很多消费者感觉到政府和企业已经把环境问题提上了议程。</p>
@@ -1888,7 +1888,7 @@ Q: vacation
 A: <p><strong>vacation </strong>[vəˈkeɪʃn, veɪˈkeɪʃn] [同] holiday</p><p><emphasis>n. </emphasis>esp. AmE a holiday, or time spent not working 假期</p><p>the Christmas/Easter/summer <strong><emphasis>vacation</emphasis></strong> 圣诞节假期/复活节假期/暑假</p>
 
 Q: vacuum 
-A: <p><strong>vacuum </strong>[ˈvækjuəm]</p><empty-line /><p>① <emphasis>n. </emphasis>a space that is completely empty of all substances, including all air or other gas 真空</p><p>② <emphasis>v. </emphasis>to clean using a vacuum cleaner 用吸尘器打扫</p><p>Have you <strong><emphasis>vacuumed</emphasis></strong> the carpets? 你有没有拿吸尘器吸过地毯?</p><p></p><empty-line /><empty-line /><p>——法国小说家雨果<emphasis>(</emphasis>Victor Hugo, French novelist<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vacuum </strong>[ˈvækjuəm]</p><empty-line /><p>① <emphasis>n. </emphasis>a space that is completely empty of all substances, including all air or other gas 真空</p><p>② <emphasis>v. </emphasis>to clean using a vacuum cleaner 用吸尘器打扫</p><p>Have you <strong><emphasis>vacuumed</emphasis></strong> the carpets? 你有没有拿吸尘器吸过地毯?</p><p></p><empty-line /><empty-line /><p>——法国小说家雨果<emphasis>(</emphasis>Victor Hugo, French novelist<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: agony 
 A: <p><strong>agony </strong>[ˈægəni] [同] distress, misery</p><p><emphasis>n. </emphasis>extreme physical or mental pain 极度痛苦</p><p>The worst <strong><emphasis>agonies</emphasis></strong> of the war were now beginning. 战争最深重的苦难现在开始了。</p>
@@ -2014,7 +2014,7 @@ Q: vague
 A: <p><strong>vague </strong>[veɪg] [同] obscure</p><p><emphasis>adj. </emphasis>not clear in a person's mind（思想上）不清楚的；含糊的</p><p>They had only a <strong><emphasis>vague</emphasis></strong> idea where the place was. 他们只是大概知道那个地方的位置。</p>
 
 Q: vain 
-A: <p><strong>vain </strong>[veɪn]</p><empty-line /><p><emphasis>adj. </emphasis>that does not produce the result you want 徒劳的；枉然的</p><p>Notwithstanding the disappointing results, it is our contention that the strategies were not in <strong><emphasis>vain</emphasis></strong>. 尽管结果令人失望，但我们认为这些策略并非没用。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vain </strong>[veɪn]</p><empty-line /><p><emphasis>adj. </emphasis>that does not produce the result you want 徒劳的；枉然的</p><p>Notwithstanding the disappointing results, it is our contention that the strategies were not in <strong><emphasis>vain</emphasis></strong>. 尽管结果令人失望，但我们认为这些策略并非没用。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: alarm 
 A: <p><strong>alarm </strong>[əˈlɑːm] [同] alert</p><p><emphasis>n. </emphasis>a device that warns people of a particular danger 警报器</p><p>Set the burglar <strong><emphasis>alarm</emphasis></strong> when you leave the house. 出门的时候打开防盗警报器。</p>
@@ -2140,7 +2140,7 @@ Q: update
 A: <p><strong>update </strong>[ʌpˈdeɪt] [同] ① renew</p><p>① <emphasis>v. </emphasis>to make sth. more modern by adding new parts, etc. 使现代化；更新</p><p>It's about time we <strong><emphasis>updated</emphasis></strong> our software. 我们的软件应该更新了。</p><p>② [ˌʌpdeɪt] <emphasis>n. </emphasis>information that updates 更新的信息</p><p>The newsletter gives an <strong><emphasis>update</emphasis></strong> on current activities. 时事通讯刊登了近期活动的最新情况。</p>
 
 Q: uphold 
-A: <p><strong>uphold </strong>[ˌʌpˈhəʊld] [同] support</p><p><emphasis>v. </emphasis>to support sth. that you think is right, fair, etc. and make sure that it continues to exist 支持；维护（正义等）</p><p>We have a duty to <strong><emphasis>uphold</emphasis></strong> the law. 维护法律是我们的责任。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>uphold </strong>[ˌʌpˈhəʊld] [同] support</p><p><emphasis>v. </emphasis>to support sth. that you think is right, fair, etc. and make sure that it continues to exist 支持；维护（正义等）</p><p>We have a duty to <strong><emphasis>uphold</emphasis></strong> the law. 维护法律是我们的责任。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: alien 
 A: <p><strong>alien </strong>[ˈeɪliən] [同] ① foreign</p><p>① <emphasis>adj. </emphasis>strange and frightening; different from what you are used to 陌生的；不熟悉的</p><p>a way of life that is totally <strong><emphasis>alien</emphasis></strong> to us 一种对我们来说完全陌生的生活方式</p><p>② <emphasis>n. </emphasis>a foreigner 外来者</p>
@@ -2266,7 +2266,7 @@ Q: validate
 A: <p><strong>validate </strong>[ˈvælɪdeɪt] [同] confirm</p><p><emphasis>v. </emphasis>to prove that sth. is true or correct, or to make a document or agreement officially and legally acceptable 验证；确认；使生效</p><p>This is an interesting hypothesis, but all attempts to <strong><emphasis>validate</emphasis></strong> it have so far failed. 这是个很有意思的假设，但迄今为止所有验证它的尝试都失败了。</p>
 
 Q: vanish 
-A: <p><strong>vanish </strong>[ˈvænɪʃ]</p><empty-line /><p><emphasis>v. </emphasis>to disappear suddenly and/or in a way that you cannot explain（莫名其妙地）突然消失</p><p>The magician <strong><emphasis>vanished</emphasis></strong> in a puff of smoke. 魔术师在一股烟雾中突然不见了。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vanish </strong>[ˈvænɪʃ]</p><empty-line /><p><emphasis>v. </emphasis>to disappear suddenly and/or in a way that you cannot explain（莫名其妙地）突然消失</p><p>The magician <strong><emphasis>vanished</emphasis></strong> in a puff of smoke. 魔术师在一股烟雾中突然不见了。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: amateur 
 A: <p><strong>amateur </strong>[ˈæmətə, ˌæməˈtəː] [反] professional, expert</p><p><emphasis>n. </emphasis>a person who takes part in a sport or other activity for enjoyment or interest, not as a job 业余爱好者</p><p>There is a long tradition of collaboration between <strong><emphasis>amateur</emphasis></strong> and professional sky watchers. 业余天文爱好者和专业研究人员之间很久以来就存在着合作的传统。</p>
@@ -2392,7 +2392,7 @@ Q: vapour
 A: <p></p><empty-line /><p><strong>vapour </strong>[ˈveɪpə(r)] [同] steam</p><p><emphasis>n. </emphasis>(BrE)a mass of very small drops of liquid in the air, for example, steam; (AmE) vapor 蒸汽；雾气</p><p>water <strong><emphasis>vapour</emphasis></strong> 水蒸气</p>
 
 Q: variety 
-A: <p><strong>variety </strong>[vəˈraɪəti] [同] diversity</p><p><emphasis>n. </emphasis>several different sorts of the same thing（同一事物的）不同种类；多种样式</p><p>There is a wide <strong><emphasis>variety</emphasis></strong> of patterns to choose from. 有种类繁多的图案可供选择。</p><p>Teke the Test</p><empty-line /><p><strong>一、英汉互译</strong></p><p>紧急的__________ primitive __________</p><empty-line /><p><strong>二、翻译句子</strong></p><p>1) 不幸的家庭环境会对孩子的行为造成影响。(environment)</p><p>2) 对付网络诈骗的最好办法就是学会如何不成为它的受害者。(fraud)</p><p>3) 退休的最低年龄是55岁。(minimum)</p><p>4) 新推出的喜剧在本季收视率最高。(rating)</p><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p><emphasis>Histories make men wise; poems witty; the mathematics subtle; natural philosophy deep; moral grave; logic and rhetoric able to contend.</emphasis></p><p>历史使人明智；诗词使人灵秀；数学使人周密；自然哲学使人深刻；伦理使人庄重；逻辑修辞学使人善辩。</p><p>——英国哲学家培根(Francis Bacon, British philosopher)</p><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>variety </strong>[vəˈraɪəti] [同] diversity</p><p><emphasis>n. </emphasis>several different sorts of the same thing（同一事物的）不同种类；多种样式</p><p>There is a wide <strong><emphasis>variety</emphasis></strong> of patterns to choose from. 有种类繁多的图案可供选择。</p><p>Teke the Test</p><empty-line /><p><strong>一、英汉互译</strong></p><p>紧急的__________ primitive __________</p><empty-line /><p><strong>二、翻译句子</strong></p><p>1) 不幸的家庭环境会对孩子的行为造成影响。(environment)</p><p>2) 对付网络诈骗的最好办法就是学会如何不成为它的受害者。(fraud)</p><p>3) 退休的最低年龄是55岁。(minimum)</p><p>4) 新推出的喜剧在本季收视率最高。(rating)</p><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p><emphasis>Histories make men wise; poems witty; the mathematics subtle; natural philosophy deep; moral grave; logic and rhetoric able to contend.</emphasis></p><p>历史使人明智；诗词使人灵秀；数学使人周密；自然哲学使人深刻；伦理使人庄重；逻辑修辞学使人善辩。</p><p>——英国哲学家培根(Francis Bacon, British philosopher)</p><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: alter 
 A: <p><strong>alter </strong>[ˈɔːltə(r)] [同] change, modify</p><p><emphasis>v. </emphasis>to make sb./sth. different 改变，更改</p><p>Whether you like it or not you're going to have to change your ways and <strong><emphasis>alter</emphasis></strong> your lifestyle. 不管你喜不喜欢，你都将不得不改变自己的习惯和生活方式。</p>
@@ -2518,7 +2518,7 @@ Q: vary
 A: <p><strong>vary </strong>[ˈveəri] [同] change, differ</p><p><emphasis>v. </emphasis>(of a group of similar things) to be different from each other in size, shape, etc. （大小、形状等）相异；不同</p><p>The students' work <strong><emphasis>varies</emphasis></strong> considerably in quality. 学生作业的质量参差不齐。</p>
 
 Q: vast 
-A: <p><strong>vast </strong>[vɑːst][同] huge</p><p><emphasis>adj. </emphasis>extremely large in area, size, amount, etc. 巨大的；庞大的</p><p>The logistics of transporting such <strong><emphasis>vast</emphasis></strong> quantities of water would be insurmountable. 安排运送如此大量的水资源所面临的困难将是难以克服的。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vast </strong>[vɑːst][同] huge</p><p><emphasis>adj. </emphasis>extremely large in area, size, amount, etc. 巨大的；庞大的</p><p>The logistics of transporting such <strong><emphasis>vast</emphasis></strong> quantities of water would be insurmountable. 安排运送如此大量的水资源所面临的困难将是难以克服的。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: ambition 
 A: <p><strong>ambition </strong>[æmˈbɪʃn] [同] aspiration, drive</p><p><emphasis>n. </emphasis>sth. you want to do or achieve very much 追求的目标；抱负；干劲</p><p>His burning <strong><emphasis>ambition</emphasis></strong> was to study medicine. 他梦寐以求的是学医。</p>
@@ -2644,7 +2644,7 @@ Q: vegetarian
 A: <p><strong>vegetarian </strong>[ˌvedʒəˈteəriən]</p><empty-line /><p>① <emphasis>adj. </emphasis>of or relating to vegetarianism or vegetarians 吃素的；素食者的</p><p>a <strong><emphasis>vegetarian</emphasis></strong> restaurant 素食餐厅</p><p>② <emphasis>n. </emphasis>a person who does not eat meat or fish 素食者</p><p>She is a <strong><emphasis>vegetarian</emphasis></strong>. 她是个素食者。</p>
 
 Q: vehicle 
-A: <p></p><empty-line /><p><strong>vehicle </strong>[ˈviːəkl][同] mean</p><p><emphasis>n. </emphasis>sth. that can be used to express your ideas or feelings or as a way of achieving sth. （用于表达思想、感情或达到目的的）手段，工具</p><p>Language is the <strong><emphasis>vehicle</emphasis></strong> of human thought. 语言是人类表达思想的工具。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p></p><empty-line /><p><strong>vehicle </strong>[ˈviːəkl][同] mean</p><p><emphasis>n. </emphasis>sth. that can be used to express your ideas or feelings or as a way of achieving sth. （用于表达思想、感情或达到目的的）手段，工具</p><p>Language is the <strong><emphasis>vehicle</emphasis></strong> of human thought. 语言是人类表达思想的工具。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: ample 
 A: <p><strong>ample </strong>[ˈæmpl] [同] sufficient, abundant [反] meager</p><p><emphasis>adj. </emphasis>more than enough 足够的</p><p>There is <strong><emphasis>ample</emphasis></strong> car parking here and plenty of bars and restaurants. 这里有足够多的停车位和众多的酒吧和饭馆。</p>
@@ -2770,7 +2770,7 @@ Q: venue
 A: <p><strong>venue </strong>[ˈvenjuː] [同] locality</p><p><emphasis>n. </emphasis>a place where people meet for an organized event, for example a concert, sporting event or conference 聚会地点（如音乐厅、体育比赛场馆、会场）</p><p>The band will be playing at twenty different <strong><emphasis>venues</emphasis></strong> on their UK tour. 这个乐队在英国巡回演出期间将在二十个不同的地点演出。</p>
 
 Q: verge 
-A: <p><strong>verge </strong>[vɜːdʒ] [同] border</p><p><emphasis>n. </emphasis>the extreme edge or margin, a border 边沿；边缘</p><p>These events left her on the <strong><emphasis>verge</emphasis></strong> of having a nervous breakdown. 这些事使得她的精神濒于崩溃。</p><empty-line /><p>——英国剧作家肖伯纳(George Bernard Shaw, British dramatist)<strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><empty-line /><p>
+A: <p><strong>verge </strong>[vɜːdʒ] [同] border</p><p><emphasis>n. </emphasis>the extreme edge or margin, a border 边沿；边缘</p><p>These events left her on the <strong><emphasis>verge</emphasis></strong> of having a nervous breakdown. 这些事使得她的精神濒于崩溃。</p><empty-line /><p>——英国剧作家肖伯纳(George Bernard Shaw, British dramatist)<strong></strong></p><empty-line /><p><strong></strong></p><empty-line />
 
 Q: analyse 
 A: <p><strong>analyse </strong>[ˈænəlaɪz] [近] examine</p><p><emphasis>v. </emphasis>to examine the nature or structure of sth. 分析</p><p>It would be pertinent to consider the realities of life for Eskimos before <strong><emphasis>analyzing</emphasis></strong> their language. 在分析爱斯基摩人的语言之前有必要考虑一下他们的真实生活情况。</p>
@@ -2896,7 +2896,7 @@ Q: versus
 A: <p><strong>versus </strong>[ˈvɜːsəs] [同] contra</p><p><emphasis>prep. </emphasis>(abbr. v, vs) (esp. sport or law ) used to show that two teams or sides are against each other（尤指运动、诉讼中的）相对，反对</p><p>It is France <strong><emphasis>versus</emphasis></strong> Brazil in the final. 决赛是法国队对巴西队。</p>
 
 Q: via 
-A: <p><strong>via </strong>[ˈvaɪə] [同] by</p><p><emphasis>prep. </emphasis>through a place 经由；经过（某一地方）</p><p>We flew home <strong><emphasis>via</emphasis></strong> Dubai. 我们乘飞机经由迪拜回国。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>via </strong>[ˈvaɪə] [同] by</p><p><emphasis>prep. </emphasis>through a place 经由；经过（某一地方）</p><p>We flew home <strong><emphasis>via</emphasis></strong> Dubai. 我们乘飞机经由迪拜回国。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: ancient 
 A: <p><strong>ancient </strong>[ˈeɪnʃənt] [同] age-old [反] modern</p><p><emphasis>adj. </emphasis>belonging to a time long ago in history 古老的</p><p>Acupuncture is an <strong><emphasis>ancient</emphasis></strong> healing art. 针灸是古代的一种医术。</p>
@@ -3019,7 +3019,7 @@ Q: victory
 A: <p><strong>victory </strong>[ˈvɪktəri] [同] triumph</p><p><emphasis>n</emphasis>. the success you achieve when you win a battle, game, election, etc. 成功；胜利</p><p>The crowds were celebrating Italy's <strong><emphasis>victory</emphasis></strong>. 人们在庆祝意大利队的胜利。</p>
 
 Q: vigour 
-A: <p><strong>vigour </strong>[ˈvɪgə(r)]</p><empty-line /><p><emphasis>n</emphasis>. physical or mental energy and determination 精力；活力</p><p>Holidays make it possible for you to return to your normal routine with renewed <strong><emphasis>vigour</emphasis></strong> and enthusiasm. 休假能让你带着活力和热情回到日常工作中去。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vigour </strong>[ˈvɪgə(r)]</p><empty-line /><p><emphasis>n</emphasis>. physical or mental energy and determination 精力；活力</p><p>Holidays make it possible for you to return to your normal routine with renewed <strong><emphasis>vigour</emphasis></strong> and enthusiasm. 休假能让你带着活力和热情回到日常工作中去。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: annoy 
 A: <p><strong>annoy </strong>[əˈnɔɪ] [同] irritate [反] soothe</p><p><emphasis>v. </emphasis>to make sb. slightly angry 使恼怒；使生气</p><p>It really <strong><emphasis>annoys</emphasis></strong> me when people forget to say thank you. 当有人连谢谢都忘记说时我确实感到不愉快。</p>
@@ -3145,7 +3145,7 @@ Q: virtual
 A: <p><strong>virtual </strong>[ˈvɜːtʃuəl] [反] ①actual</p><p><emphasis>adj. </emphasis>① almost or very nearly the thing described, so that any slight difference is not important 很接近的；实质上的 ② made, done, seen, etc. on the Internet or on a computer, rather than in the real world 虚拟的</p><p>The company has a <strong><emphasis>virtual</emphasis></strong> monopoly in this area of trade. 这家公司实质上已经垄断了这一领域的贸易。</p>
 
 Q: virtually 
-A: <p><strong>virtually </strong>[ˈvɜːtʃuəli]</p><empty-line /><p><emphasis>adv. </emphasis>almost; practically 几乎；实际上</p><p><strong><emphasis>Virtually</emphasis></strong> all students will be exempt from the tax. 差不多所有的学生都会被豁免此税项。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>virtually </strong>[ˈvɜːtʃuəli]</p><empty-line /><p><emphasis>adv. </emphasis>almost; practically 几乎；实际上</p><p><strong><emphasis>Virtually</emphasis></strong> all students will be exempt from the tax. 差不多所有的学生都会被豁免此税项。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: anticipate 
 A: <p><strong>anticipate </strong>[ænˈtɪsɪpeɪt] [同] foresee</p><p><emphasis>v</emphasis>. expect (sth.) 期望，预料（某事物）</p><p>A good speaker is able to <strong><emphasis>anticipate</emphasis></strong> an audience's needs and concerns. 好的演讲者能够预料到听众的需求和他们感兴趣的话题。</p>
@@ -3271,7 +3271,7 @@ Q: virtue
 A: <p><strong>virtue </strong>[ˈvɜːtʃuː] [同] merit</p><p><emphasis>n</emphasis>. an attractive or useful quality 优点；长处</p><p>The <strong><emphasis>virtue</emphasis></strong> of job descriptions is that they lessen role ambiguity. 对工作的描述好处在于可以减少任务的不明确性。</p>
 
 Q: visa 
-A: <p><strong>visa </strong>[ˈviːzə]</p><empty-line /><p><emphasis>n. </emphasis>a stamp or mark put in your passport by officials of a foreign country that gives you permission to enter, pass through or leave their country（护照的）签证</p><p>entry/tourist/transit <strong><emphasis>visa</emphasis></strong> 入境/旅游/过境签证</p><p></p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>visa </strong>[ˈviːzə]</p><empty-line /><p><emphasis>n. </emphasis>a stamp or mark put in your passport by officials of a foreign country that gives you permission to enter, pass through or leave their country（护照的）签证</p><p>entry/tourist/transit <strong><emphasis>visa</emphasis></strong> 入境/旅游/过境签证</p><p></p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: anxiety 
 A: <p><strong>anxiety </strong>[æŋˈzaɪəti] [同] concern, unease [反] security</p><p><emphasis>n. </emphasis>the feeling of being very worried about sth. 焦虑</p><p>It can help if you discuss your <strong><emphasis>anxieties</emphasis></strong> with someone. 把你的焦虑跟别人聊聊或许会管用。</p>
@@ -3397,7 +3397,7 @@ Q: vision
 A: <p><strong>vision </strong>[ˈvɪʒn] [同] sight</p><p><emphasis>n</emphasis>. the ability to see; the area that you can see from a particular position 视力；视野</p><p>Cats have good night <strong><emphasis>vision</emphasis></strong>. 猫在夜间视力好。</p>
 
 Q: visual 
-A: <p><strong>visual </strong>[ˈvɪʒuəl]</p><empty-line /><p><emphasis>adj. </emphasis>of or connected with seeing or sight 视力的；视觉的</p><p>The building makes a tremendous <strong><emphasis>visual</emphasis></strong> impact. 这栋建筑物给人以极其深刻的视觉印象。</p><empty-line /><p>——美国作家海伦·凯勒(Helen Keller, American writer)</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>visual </strong>[ˈvɪʒuəl]</p><empty-line /><p><emphasis>adj. </emphasis>of or connected with seeing or sight 视力的；视觉的</p><p>The building makes a tremendous <strong><emphasis>visual</emphasis></strong> impact. 这栋建筑物给人以极其深刻的视觉印象。</p><empty-line /><p>——美国作家海伦·凯勒(Helen Keller, American writer)</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: apparent 
 A: <p><strong>apparent </strong>[əˈpærənt] [同] obvious, evident</p><p><emphasis>adj</emphasis>. clearly seen or understood; obvious 清楚易见的；明显的；显然的</p><p>This phenomenon has become increasingly <strong><emphasis>apparent</emphasis></strong> in modern industrialized societies. 这个现象在现代工业社会里变得越来越明显。</p>
@@ -3523,7 +3523,7 @@ Q: vocational
 A: <p><strong>vocational </strong>[vəʊˈkeɪʃənl] [同] professional</p><p><emphasis>adj. </emphasis>connected with the skills, knowledge, etc. that you need to have in order to do a particular job 职业的；职业技术的</p><p>a <strong><emphasis>vocational</emphasis></strong> training institute 一个职业培训学院</p>
 
 Q: volcano 
-A: <p><strong>volcano </strong>[vɒlˈkeɪnəʊ]</p><empty-line /><p><emphasis>n. </emphasis>a mountain with a large opening at the top through which gases and lava are forced out into the air, or have been in the past 火山</p><p>An active <strong><emphasis>volcano</emphasis></strong> may erupt at any time. 活火山会随时喷发。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>volcano </strong>[vɒlˈkeɪnəʊ]</p><empty-line /><p><emphasis>n. </emphasis>a mountain with a large opening at the top through which gases and lava are forced out into the air, or have been in the past 火山</p><p>An active <strong><emphasis>volcano</emphasis></strong> may erupt at any time. 活火山会随时喷发。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: appearance 
 A: <p><strong>appearance </strong>[əˈpɪərəns] [同] look</p><p><emphasis>n. </emphasis>the way sb. or sth. looks to other people 外观；容貌</p><p>You shouldn't judge by <strong><emphasis>appearances</emphasis></strong>. 你不应该以貌取人。</p>
@@ -3649,7 +3649,7 @@ Q: volume
 A: <p><strong>volume </strong>[ˈvɒljuːm]</p><empty-line /><p><emphasis>n. </emphasis>① the amount of sound produced by a television, radio, etc. 音量 ② the total amount of sth., especially when it is large or increasing 量；额</p><p>the <strong><emphasis>volume</emphasis></strong> of trade 贸易量</p>
 
 Q: voluntary 
-A: <p><strong>voluntary </strong>[ˈvɒləntəri] [同] willing</p><p><emphasis>adj. </emphasis>done willingly, not because you are forced 自愿的；志愿的</p><p>She is a <strong><emphasis>voluntary</emphasis></strong> worker at the hospital. 她在这家医院做义工。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>voluntary </strong>[ˈvɒləntəri] [同] willing</p><p><emphasis>adj. </emphasis>done willingly, not because you are forced 自愿的；志愿的</p><p>She is a <strong><emphasis>voluntary</emphasis></strong> worker at the hospital. 她在这家医院做义工。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: applaud 
 A: <p><strong>applaud </strong>[əˈplɔːd] [同] cheer, clap [反] boo</p><p><emphasis>v. </emphasis>show approval of (sb./sth.) by clapping the hands 向（某人/某事物）鼓掌表示欢迎或赞赏</p><p>The crowd applauded the performance for five minutes. 群众为演出鼓掌五分钟。</p>
@@ -3775,7 +3775,7 @@ Q: voyage
 A: <p></p><empty-line /><p><strong>voyage </strong>[ˈvɔɪɪdʒ] [同] cruise</p><p><emphasis>n. </emphasis>a long journey, especially by sea or in space 航行；（尤指）航海，航天</p><p>The Titanic sank on its maiden <strong><emphasis>voyage</emphasis></strong>. 泰坦尼克号首航便沉没了。</p>
 
 Q: vulnerable 
-A: <p><strong>vulnerable </strong>[ˈvʌlnərəbl]</p><empty-line /><p><emphasis>adj. </emphasis>weak and easily hurt physically or emotionally 脆弱的；易受伤害的</p><p>We work mainly with the elderly and other <strong><emphasis>vulnerable</emphasis></strong> groups. 我们的工作对象主要是老人和其他一些弱势群体。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vulnerable </strong>[ˈvʌlnərəbl]</p><empty-line /><p><emphasis>adj. </emphasis>weak and easily hurt physically or emotionally 脆弱的；易受伤害的</p><p>We work mainly with the elderly and other <strong><emphasis>vulnerable</emphasis></strong> groups. 我们的工作对象主要是老人和其他一些弱势群体。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: appointment 
 A: <p><strong>appointment </strong>[əˈpɔɪntmənt]</p><empty-line /><p><emphasis>n. </emphasis>(with sb.) arrangement to meet or visit sb. at a particular time 约会；预约</p><p>If you want to make an <strong><emphasis>appointment</emphasis></strong> you can phone or call at the office in person. 如果你想预约的话，你可以打电话或亲自登门。</p>
@@ -3901,7 +3901,7 @@ Q: wardrobe
 A: <p><strong>wardrobe </strong>[ˈwɔːdrəʊb]</p><empty-line /><p><emphasis>n. </emphasis>(BrE) a piece of furniture like a large cupboard that you hang clothes in 衣柜</p><p>Can you hang these in the <strong><emphasis>wardrobe</emphasis></strong>, please? 请问你能把这些衣服挂在衣柜里吗?</p>
 
 Q: weave 
-A: <p></p><empty-line /><p><strong>weave </strong>[wiːv] [同] knit</p><p><emphasis>v. </emphasis>to make fabric, a carpet, a basket, etc. by crossing threads or strips across, over and under each other by hand or on a machine called a loom（用手或机器）编；编制</p><p>The baskets are <strong><emphasis>woven</emphasis></strong> from strips of willow. 这些篮子是用柳条编的。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p></p><empty-line /><p><strong>weave </strong>[wiːv] [同] knit</p><p><emphasis>v. </emphasis>to make fabric, a carpet, a basket, etc. by crossing threads or strips across, over and under each other by hand or on a machine called a loom（用手或机器）编；编制</p><p>The baskets are <strong><emphasis>woven</emphasis></strong> from strips of willow. 这些篮子是用柳条编的。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: approach 
 A: <p><strong>approach </strong>[əˈprəʊtʃ]</p><empty-line /><p>① <emphasis>n. </emphasis>way of dealing with a person or thing 方法；手段</p><p>We take a cooperative <strong><emphasis>approach</emphasis></strong> to the assessment of your work. 我们采取了一种合作的方式来评价你的工作。</p><p>② <emphasis>v. </emphasis>to come near or nearer to (sb./sth.) in space or time（在空间或时间上）接近；靠近（某人/某事物）</p><p>As autumn <strong><emphasis>approaches</emphasis></strong>, the beekeepers pack up their hives and go south. 秋天临近，养蜂人收拾好他们的蜂箱前往南方。</p>
@@ -4027,7 +4027,7 @@ Q: trap
 A: <p><strong>trap </strong>[træp]</p><empty-line /><p>① <emphasis>n. </emphasis>device for catching animals, etc. 捕动物等的器具；陷阱</p><p>a mouse trap 老鼠夹</p><p>② <emphasis>v. </emphasis>to keep (sb.) in a place from which he wants to move but cannot 使（某人）陷入困境</p><p>Thirty miners were <strong><emphasis>trapped</emphasis></strong> underground. 30个矿工被困在了地下。</p>
 
 Q: treasure 
-A: <p><strong>treasure </strong>[ˈtreʒə(r)]</p><empty-line /><p><emphasis>n. </emphasis>① a group of valuable things such as gold, silver, jewels, etc. 财宝 ② a very valuable and important object 宝贝；珍品</p><p>A husband that cooks and cleans is a real <strong><emphasis>treasure</emphasis></strong>. 一个能做饭洗衣的丈夫可真是块宝。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>treasure </strong>[ˈtreʒə(r)]</p><empty-line /><p><emphasis>n. </emphasis>① a group of valuable things such as gold, silver, jewels, etc. 财宝 ② a very valuable and important object 宝贝；珍品</p><p>A husband that cooks and cleans is a real <strong><emphasis>treasure</emphasis></strong>. 一个能做饭洗衣的丈夫可真是块宝。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: approve 
 A: <p><strong>approve </strong>[əˈpruːv] [同] accept, endorse, be in favor of [反] disapprove</p><p><emphasis>v. </emphasis>(of sb./sth.) to say, show or feel that sth. is good or acceptable or satisfactory 赞成；同意</p><p>I <strong><emphasis>approve</emphasis></strong> of your trying to earn some money, but please don't neglect your studies. 我同意你去挣一些钱，可是请不要误了功课。</p>
@@ -4153,7 +4153,7 @@ Q: treaty
 A: <p><strong>treaty </strong>[ˈtriːti] [同] agreement</p><p><emphasis>n. </emphasis>(fml.) agreement between two or more countries（国家之间的）条约，协定</p><p>the <strong><emphasis>Treaty</emphasis></strong> of Rome 罗马条约</p>
 
 Q: tremble 
-A: <p><strong>tremble </strong>[ˈtrembl] [同] shake</p><p><emphasis>v. </emphasis>to shake involuntarily (from fear, cold, weakness, etc.); quiver（因恐惧、寒冷、虚弱等）颤抖，战栗，哆嗦</p><p>Her hands were <strong><emphasis>trembling</emphasis></strong> with anger. 她气得双手直哆嗦。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>tremble </strong>[ˈtrembl] [同] shake</p><p><emphasis>v. </emphasis>to shake involuntarily (from fear, cold, weakness, etc.); quiver（因恐惧、寒冷、虚弱等）颤抖，战栗，哆嗦</p><p>Her hands were <strong><emphasis>trembling</emphasis></strong> with anger. 她气得双手直哆嗦。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: arise 
 A: <p><strong>arise </strong>[əˈraɪz]</p><empty-line /><p><emphasis>v. </emphasis>to become evident; appear; originate 呈现；出现；发生</p><p>Greenhouse gases <strong><emphasis>arise</emphasis></strong> from a wide range of sources. 温室气体有多种来源。</p>
@@ -4279,7 +4279,7 @@ Q: weight
 A: <p><strong>weight </strong>[weɪt]</p><empty-line /><p>① <emphasis>n. </emphasis>how heavy sb./sth. is, which can be measured in, for example, kilogram or pounds 重量；分量</p><p>It is about 76 kilos in <strong><emphasis>weight</emphasis></strong>. 这东西重约76千克。</p><p>② <emphasis>v. </emphasis>to give different values to things to show how important you think each of them is compared with the others 使加权</p><p>The results of the survey were <strong><emphasis>weighted</emphasis></strong> to allow for variations in the sample. 这次调查的结果进行了加权处理，以备样本中出现变化。</p>
 
 Q: welfare 
-A: <p><strong>welfare </strong>[ˈwelfeə(r)]</p><empty-line /><p><emphasis>n. </emphasis>practical or financial help that is provided, often by government, for people or animals that need it（政府给予的）福利</p><p>The Language Institute provides student support, <strong><emphasis>welfare</emphasis></strong> and activities services. 语言学院为学生提供支持、福利和各种活动服务。</p><p></p><empty-line /><empty-line /><p>——新东方校训</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>welfare </strong>[ˈwelfeə(r)]</p><empty-line /><p><emphasis>n. </emphasis>practical or financial help that is provided, often by government, for people or animals that need it（政府给予的）福利</p><p>The Language Institute provides student support, <strong><emphasis>welfare</emphasis></strong> and activities services. 语言学院为学生提供支持、福利和各种活动服务。</p><p></p><empty-line /><empty-line /><p>——新东方校训</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: artificial 
 A: <p><strong>artificial </strong>[ˌɑːtɪˈfɪʃl] [同] false [反] natural, genuine</p><p><emphasis>adj. </emphasis>made or produced by man in imitation of sth. natural; not real 人造的；人工的；假的</p><p>The quest for true <strong><emphasis>artificial</emphasis></strong> intelligence has produced very mixed results. 对人工智能的探索产生了多种不同的结果。</p>
@@ -4531,7 +4531,7 @@ Q: triumph
 A: <p><strong>triumph </strong>[ˈtraɪəmf] [同] ① victory</p><p><emphasis>n. </emphasis>① an important victory or success after a difficult struggle 成功；胜利 ②(joy or satisfaction at) being successful or victorious 成功或胜利的喜悦</p><p>The dam represents man's <strong><emphasis>triumph</emphasis></strong> over nature. 这个大坝象征着人定胜天。</p>
 
 Q: trivial 
-A: <p><strong>trivial </strong>[ˈtrɪviəl] [同] insignificant</p><p><emphasis>adj. </emphasis>(derog.) that has little importance 不重要的；琐碎的</p><p>Why waste time watching <strong><emphasis>trivial</emphasis></strong> TV programs? 为什么要浪费时间看那些无聊的电视节目?</p><empty-line /><p>———美国科学家爱因斯坦<emphasis>(</emphasis>Albert Einstein, American scientist)</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>trivial </strong>[ˈtrɪviəl] [同] insignificant</p><p><emphasis>adj. </emphasis>(derog.) that has little importance 不重要的；琐碎的</p><p>Why waste time watching <strong><emphasis>trivial</emphasis></strong> TV programs? 为什么要浪费时间看那些无聊的电视节目?</p><empty-line /><p>———美国科学家爱因斯坦<emphasis>(</emphasis>Albert Einstein, American scientist)</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: assignment 
 A: <p><strong>assignment </strong>[əˈsaɪnmənt] [同] task</p><p><emphasis>n. </emphasis>task or duty that is assigned to sb. 指定给某人的任务或职责；作业</p><p>You should hand your <strong><emphasis>assignments</emphasis></strong> in on time and turn up for all the tutorials. 你应该及时交作业并参加所有的辅导课。</p>
@@ -4657,7 +4657,7 @@ Q: trustworthy
 A: <p><strong>trustworthy </strong>[ˈtrʌstˌwɜːði] [同] dependable</p><p><emphasis>adj. </emphasis>worthy of trust; reliable 值得信任的；可信赖的；可靠的</p><p>Most of our employees are pretty <strong><emphasis>trustworthy</emphasis></strong>, I think. 我认为我们的大多数员工都很可靠。</p>
 
 Q: tuition 
-A: <p><strong>tuition </strong>[tjuˈɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>① teaching or instruction, esp. that given to individuals or small groups（尤作文雅语）教学，讲授（尤指对个人或小组的） ② the money you pay for being taught 学费</p><p>Each hour consists of 50 minutes' <strong><emphasis>tuition</emphasis></strong> and a 10-minute break. 每个小时包括50分钟的授课时间和10分钟的休息时间。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>tuition </strong>[tjuˈɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>① teaching or instruction, esp. that given to individuals or small groups（尤作文雅语）教学，讲授（尤指对个人或小组的） ② the money you pay for being taught 学费</p><p>Each hour consists of 50 minutes' <strong><emphasis>tuition</emphasis></strong> and a 10-minute break. 每个小时包括50分钟的授课时间和10分钟的休息时间。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: assume 
 A: <p><strong>assume </strong>[əˈsjuːm] [同] presume</p><p><emphasis>v. </emphasis>to accept (sth.) as true before there is proof 假定；假设；设想</p><p>One would <strong><emphasis>assume</emphasis></strong> that the present situation was going to continue. 有人会认为目前的情况将会继续下去。</p>
@@ -4783,7 +4783,7 @@ Q: tutor
 A: <p><strong>tutor </strong>[ˈtjuːtə(r)]</p><empty-line /><p><emphasis>n. </emphasis>(BrE) a teacher whose job is to pay special attention to the studies or health, etc. of a student or a group of students 导师；指导教师</p><p>The <strong><emphasis>tutors</emphasis></strong> here at Bedford College are all very experienced in their field of teaching. 贝德福德学院的教师们在他们任教的领域上都富有经验。</p>
 
 Q: tutorial 
-A: <p></p><empty-line /><p><strong>tutorial </strong>[tjuːˈtɔːriəl]</p><empty-line /><p><emphasis>n. </emphasis>a period of teaching in a university that involves of students and a tutor（大学导师的）个别辅导时间，辅导课</p><p>Whereas previously lecturers were holding <strong><emphasis>tutorials</emphasis></strong>, their time is now spent marking hundreds of essays. 以前讲师们都会上很多辅导课，现在却把时间都花在给成百上千的论文打分上。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p></p><empty-line /><p><strong>tutorial </strong>[tjuːˈtɔːriəl]</p><empty-line /><p><emphasis>n. </emphasis>a period of teaching in a university that involves of students and a tutor（大学导师的）个别辅导时间，辅导课</p><p>Whereas previously lecturers were holding <strong><emphasis>tutorials</emphasis></strong>, their time is now spent marking hundreds of essays. 以前讲师们都会上很多辅导课，现在却把时间都花在给成百上千的论文打分上。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: atmosphere 
 A: <p><strong>atmosphere </strong>[ˈætməsfiə(r)] [同] ① ambience</p><p><emphasis>n. </emphasis>① feeling in the mind that is created by a group of people or a place; mood 气氛；情绪</p><p>All interviews are confidential and conducted in a relaxed and friendly <strong><emphasis>atmosphere</emphasis></strong>. 所有的访问都保密，并且在一种轻松而友好的气氛下进行。</p><p>② the mixture of gases that surrounds the earth 大气，大气层（包围地球的气体）</p><p>We could help the situation by reducing the amount of chemical pollutant we release into the <strong><emphasis>atmosphere</emphasis></strong>. 我们可以通过减少向大气排放化学污染物来缓解这种局面。</p>
@@ -4909,7 +4909,7 @@ Q: twilight
 A: <p><strong>twilight </strong>[ˈtwaɪlaɪt] [近] evening</p><p><emphasis>n. </emphasis>the faint light or the period of time at the end of the day after the sun has gone down 暮色；黄昏</p><p>It was hard to see him clearly in the <strong><emphasis>twilight</emphasis></strong>. 在朦胧的暮色中很难看清他。</p>
 
 Q: twin 
-A: <p><strong>twin </strong>[twɪn] [同] ① double</p><p>① <emphasis>adj. </emphasis>used to describe two things that are used as a pair 成双的；成对的</p><p>All the <strong><emphasis>twin</emphasis></strong> rooms have private bathrooms. 所有的标准间都有独立卫浴。</p><p>② <emphasis>n. </emphasis>one of two children born at the same time to the same mother 双胞胎之一</p><p>She's expecting <strong><emphasis>twins</emphasis></strong>. 她怀着双胞胎。</p><p></p><empty-line /><empty-line /><p>___________________________________</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>twin </strong>[twɪn] [同] ① double</p><p>① <emphasis>adj. </emphasis>used to describe two things that are used as a pair 成双的；成对的</p><p>All the <strong><emphasis>twin</emphasis></strong> rooms have private bathrooms. 所有的标准间都有独立卫浴。</p><p>② <emphasis>n. </emphasis>one of two children born at the same time to the same mother 双胞胎之一</p><p>She's expecting <strong><emphasis>twins</emphasis></strong>. 她怀着双胞胎。</p><p></p><empty-line /><empty-line /><p>___________________________________</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: attain 
 A: <p><strong>attain </strong>[əˈteɪn] [同] achieve, gain</p><p><emphasis>v. </emphasis>to succeed in getting (sth.); achieve 获得（某事物）；达到；实现</p><p>The challenge is to <strong><emphasis>attain</emphasis></strong> a sustainable balance between population, economic growth and the environment. 挑战在于实现人口、经济增长与环境之间可持续的平衡。</p>
@@ -5035,7 +5035,7 @@ Q: wicked
 A: <p><strong>wicked </strong>[ˈwɪkɪd]</p><empty-line /><p><emphasis>adj. </emphasis>behaving in a way that is morally wrong 邪恶的</p><p>a <strong><emphasis>wicked</emphasis></strong> witch 邪恶的巫婆</p>
 
 Q: widespread 
-A: <p><strong>widespread </strong>[ˈwaɪdspred]</p><empty-line /><p><emphasis>adj. </emphasis>existing or happening in many places or situations, or among many people 遍布的；广泛的</p><p>Whether the technology ever will gain <strong><emphasis>widespread</emphasis></strong> use is uncertain. 该科技是否能得到广泛应用还不确定。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>widespread </strong>[ˈwaɪdspred]</p><empty-line /><p><emphasis>adj. </emphasis>existing or happening in many places or situations, or among many people 遍布的；广泛的</p><p>Whether the technology ever will gain <strong><emphasis>widespread</emphasis></strong> use is uncertain. 该科技是否能得到广泛应用还不确定。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: attribute 
 A: <p><strong>attribute </strong>[əˈtribjuːt] [同] ②characteristic, feature</p><p>① <emphasis>v. </emphasis>to regard sth. as belonging to, caused by or produced by sb./sth. 认为某事物属于某人（或某事物）；认为某事物由某人（或某事物）引起或产生</p><p>He <strong><emphasis>attributes</emphasis></strong> his physical prowess to an exercise regimen inspired by the lifestyles of our Paleolithic ancestors. 他把他的高超体能归功于从旧石器时代祖先的生活方式中得到启发的运动养生法。</p><p>② <emphasis>n. </emphasis>[æˈtribjuːt] a quality or feature 性质，特点</p><p>He had all the <strong><emphasis>attributes</emphasis></strong> of a great leader. 他具有一个伟大领袖所有的全部特质。</p>
@@ -5161,7 +5161,7 @@ Q: systematic
 A: <p><strong>systematic </strong>[ˈsɪstəˈmætɪk] [同] orderly</p><p><emphasis>adj. </emphasis>organized carefully and done thoroughly 系统的；有体系的</p><p>Analysis of the data should have been more <strong><emphasis>systematic</emphasis></strong>. 对数据的分析本应更系统化一些。</p>
 
 Q: wisdom 
-A: <p><strong>wisdom </strong>[ˈwɪzdəm] [同] knowledge</p><p><emphasis>n. </emphasis>the knowledge that a society or culture has gained over a long period of time（社会或文化长期积累的）知识，学问</p><p>It was the responsibility of the older people to pass on their skills, knowledge and <strong><emphasis>wisdom</emphasis></strong> to the younger members of society. 老年人有责任把他们的技能、知识和智慧传递给社会中年轻的一代。</p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>wisdom </strong>[ˈwɪzdəm] [同] knowledge</p><p><emphasis>n. </emphasis>the knowledge that a society or culture has gained over a long period of time（社会或文化长期积累的）知识，学问</p><p>It was the responsibility of the older people to pass on their skills, knowledge and <strong><emphasis>wisdom</emphasis></strong> to the younger members of society. 老年人有责任把他们的技能、知识和智慧传递给社会中年轻的一代。</p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: automatic 
 A: <p><strong>automatic </strong>[ˌɔːtəˈmætɪk]</p><empty-line /><p><emphasis>adj. </emphasis>working by itself without direct human control; self-regulating 自动的；自动调整的</p><p>My camera is fully <strong><emphasis>automatic</emphasis></strong>. 我的相机是全自动的。</p>
@@ -5284,7 +5284,7 @@ Q: witness
 A: <p><strong>witness </strong>[ˈwɪtnɪs] [同] ① beholder</p><p>① <emphasis>n. </emphasis>a person who sees sth. happen and is able to describe it to other people 目击者；见证人</p><p>an eye witness 目击证人</p><p>② <emphasis>v. </emphasis>to see sth. happen because you are there when it happens 当场看到；目击</p><p>She was shocked by the violent scenes she had <strong><emphasis>witnessed</emphasis></strong>. 她被亲眼目睹的暴虐场面惊呆了。</p>
 
 Q: workload 
-A: <p><strong>workload </strong>[ˈwɜːkləʊd]</p><empty-line /><p><emphasis>n. </emphasis>the amount of work that has to be done by a particular person or organization（某一人或组织的）工作量，工作负担</p><p>We have taken on extra staff to cope with the increased <strong><emphasis>workload</emphasis></strong>. 我们已经额外雇用员工来应付增加了的工作量。</p><p></p><empty-line /><empty-line /><p>——德国哲学家尼采<emphasis>(</emphasis>F.W. Nietzsche, German philosopher<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p><strong>7分词汇</strong></p><empty-line /><p>
+A: <p><strong>workload </strong>[ˈwɜːkləʊd]</p><empty-line /><p><emphasis>n. </emphasis>the amount of work that has to be done by a particular person or organization（某一人或组织的）工作量，工作负担</p><p>We have taken on extra staff to cope with the increased <strong><emphasis>workload</emphasis></strong>. 我们已经额外雇用员工来应付增加了的工作量。</p><p></p><empty-line /><empty-line /><p>——德国哲学家尼采<emphasis>(</emphasis>F.W. Nietzsche, German philosopher<emphasis>)</emphasis></p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p><strong>7分词汇</strong></p>
 
 Q: abbreviation 
 A: <p><strong>abbreviation </strong>[əˌbriːvɪˈeɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>a short form of a word or expression 缩写形式</p><p>BBC is an <strong><emphasis>abbreviation</emphasis></strong> for British Broadcasting Corporation. BBC是英国广播公司的缩写。</p>
@@ -5398,7 +5398,7 @@ Q: sanitation
 A: <p><strong>sanitation </strong>[ˌsænəˈteʃn, ˌsænɪˈteɪʃn] [同] hygiene</p><p><emphasis>n. </emphasis>systems that protect people's health, esp. those that dispose efficiently of sewage 卫生系统或设备（尤指下水道设备）</p><p>During this period, there is an emphasis on providing clean water, improved <strong><emphasis>sanitation</emphasis></strong> and housing. 在这个时期特别强调提供洁净的水、改进了的下水道设备以及住宅设施。</p>
 
 Q: ubiquitous 
-A: <p><strong>ubiquitous </strong>[juːˈbɪkwɪtəs] [同] universal</p><p><emphasis>adj. </emphasis>(fml.) seeming to be everywhere or in several places at the same time; very common 似乎无所不在的；十分普遍的</p><p>Plastic containers are <strong><emphasis>ubiquitous</emphasis></strong> nowadays. 塑料容器如今到处都是。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>ubiquitous </strong>[juːˈbɪkwɪtəs] [同] universal</p><p><emphasis>adj. </emphasis>(fml.) seeming to be everywhere or in several places at the same time; very common 似乎无所不在的；十分普遍的</p><p>Plastic containers are <strong><emphasis>ubiquitous</emphasis></strong> nowadays. 塑料容器如今到处都是。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: abound 
 A: <p><strong>abound </strong>[əˈbaʊnd]</p><empty-line /><p><emphasis>v. </emphasis>to exist in very large numbers 大量存在，充满</p><p>Other examples <strong><emphasis>abound</emphasis></strong> in the world of commerce. 商业世界里类似的例子比比皆是。</p>
@@ -5512,7 +5512,7 @@ Q: unanimous
 A: <p><strong>unanimous </strong>[juːˈnænɪməs] [近] agreed</p><p><emphasis>adj. </emphasis>sharing the same opinions or views; being in complete harmony or accord（全体）一致的；观念或见解完全和谐或一致的</p><p>The meeting was <strong><emphasis>unanimous</emphasis></strong> in adopting the proposals. 会议一致决定采用这个方案。</p>
 
 Q: vacancy 
-A: <p><strong>vacancy </strong>[ˈveɪkənsi] [反] occupancy</p><p><emphasis>n. </emphasis>a job that is available for sb. to do（职位的）空缺；空职</p><p>fill a <strong><emphasis>vacancy</emphasis></strong> 填补空缺</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>vacancy </strong>[ˈveɪkənsi] [反] occupancy</p><p><emphasis>n. </emphasis>a job that is available for sb. to do（职位的）空缺；空职</p><p>fill a <strong><emphasis>vacancy</emphasis></strong> 填补空缺</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: acclaim 
 A: <p><strong>acclaim </strong>[əˈkleɪm] [同] ②applaud [反] ②denounce</p><p>① <emphasis>n. </emphasis>a strong expression of praise 赞扬</p><p>② <emphasis>v. </emphasis>to praise sb. or sth. publicly 赞誉某人/某事物</p><p>a highly <strong><emphasis>acclaimed</emphasis></strong> performance 受到高度赞扬的演出</p>
@@ -5626,7 +5626,7 @@ Q: scheme
 A: <p><strong>scheme </strong>[skiːm] [同] plan</p><p><emphasis>n. </emphasis>plan for doing or organizing sth. 计划；方案</p><p>pension <strong><emphasis>scheme</emphasis></strong> 养老保险；membership <strong><emphasis>scheme</emphasis></strong> 会员制</p>
 
 Q: scratch 
-A: <p><strong>scratch </strong>[skrætʃ] [同] scrape</p><p><emphasis>v. </emphasis>to make marks on or in (a surface) with a sharp tool, nails, claws, etc.; make a shallow wound in (the skin) in this way 刮，划，抓（物体表面或皮肤）</p><p>The medicine relieves the itching, so the child doesn't <strong><emphasis>scratch</emphasis></strong> so much. 药物缓解了瘙痒，小孩子不再那么频繁地抓挠了。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>scratch </strong>[skrætʃ] [同] scrape</p><p><emphasis>v. </emphasis>to make marks on or in (a surface) with a sharp tool, nails, claws, etc.; make a shallow wound in (the skin) in this way 刮，划，抓（物体表面或皮肤）</p><p>The medicine relieves the itching, so the child doesn't <strong><emphasis>scratch</emphasis></strong> so much. 药物缓解了瘙痒，小孩子不再那么频繁地抓挠了。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: acute 
 A: <p><strong>acute </strong>[əˈkjuːt] [反] chronic</p><p><emphasis>adj. </emphasis>very serious or severe 严重的；急性的</p><p>The old and ill are the most vulnerable to the <strong><emphasis>acute</emphasis></strong> effects of heavily polluted air. 老人和病人最容易受到空气重污染的影响。</p>
@@ -5740,7 +5740,7 @@ Q: uncompromising
 A: <p><strong>uncompromising </strong>[ˌʌnˈkɒmprəmaɪzɪŋ] [同] inflexible, unbending adj. unwilling to change your opinions or behaviour 不让步的；不妥协的</p><p>He has a reputation for being tough and <strong><emphasis>uncompromising</emphasis></strong>. 他的严厉和强硬态度是出了名的。</p>
 
 Q: warehouse 
-A: <p><strong>warehouse </strong>[ˈweəhaʊs] [同] storehouse</p><p><emphasis>n. </emphasis>a building where large quantities of goods are stored, esp. before they are sent to shops to be sold 仓库；货仓</p><p>Prices rose in April 2009, but fell again in May after an upsurge in <strong><emphasis>warehouse</emphasis></strong> copper stocks. 价格在2009年4月上涨，但在铜库存猛涨之后，在5月又下跌了。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>warehouse </strong>[ˈweəhaʊs] [同] storehouse</p><p><emphasis>n. </emphasis>a building where large quantities of goods are stored, esp. before they are sent to shops to be sold 仓库；货仓</p><p>Prices rose in April 2009, but fell again in May after an upsurge in <strong><emphasis>warehouse</emphasis></strong> copper stocks. 价格在2009年4月上涨，但在铜库存猛涨之后，在5月又下跌了。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: adjoin 
 A: <p><strong>adjoin </strong>[əˈdʒɔɪn] [同] border</p><p><emphasis>v. </emphasis>(written) to be next to or joined to sth. 紧挨；邻接</p><p>A luxury hotel <strong><emphasis>adjoins</emphasis></strong> the convention center. 一家豪华酒店紧挨着会议中心。</p>
@@ -5854,7 +5854,7 @@ Q: weird
 A: <p><strong>weird </strong>[wɪəd] [近] strange</p><p><emphasis>adj. </emphasis>unusual or different; not normal 不寻常的；奇异的</p><p>It's really <strong><emphasis>weird</emphasis></strong> seeing yourself on television. 看到自己上电视感觉怪怪的。</p>
 
 Q: zeal 
-A: <p><strong>zeal </strong>[ziːl] [近] passion</p><p><emphasis>n. </emphasis>great energy or enthusiasm connected with sth. that you feel strongly about 热情；激情</p><p>He shows great <strong><emphasis>zeal</emphasis></strong> for knowledge. 他表现出极大的求知热情。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>zeal </strong>[ziːl] [近] passion</p><p><emphasis>n. </emphasis>great energy or enthusiasm connected with sth. that you feel strongly about 热情；激情</p><p>He shows great <strong><emphasis>zeal</emphasis></strong> for knowledge. 他表现出极大的求知热情。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: adorable 
 A: <p><strong>adorable </strong>[əˈdɔːrəbl] [同] lovable</p><p><emphasis>adj. </emphasis>used to describe a person or animal that makes you feel great affection because they are so attractive and often small 非常可爱的</p><p>We eventually found the cat in the wardrobe, surrounded by six <strong><emphasis>adorable</emphasis></strong> kittens. 我们最终在衣柜里发现了那只猫，周围围着六只极可爱的小猫咪。</p>
@@ -5968,7 +5968,7 @@ Q: shortsighted
 A: <p><strong>shortsighted </strong>[ˌʃɔːtˈsaɪtɪd] [反] longsighted</p><p><emphasis>adj. </emphasis>having or showing an inability to foresee what will happen 目光短浅的；无远见的</p><p>a <strong><emphasis>shortsighted</emphasis></strong> person/attitude/plan 目光短浅的人/看法/计划</p>
 
 Q: telling 
-A: <p><strong>telling </strong>[ˈtelɪŋ]</p><empty-line /><p><emphasis>adj. </emphasis>having a noticeable effect; impressive 有明显效果的；显著的</p><p>a <strong><emphasis>telling</emphasis></strong> argument 有力的论据</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>telling </strong>[ˈtelɪŋ]</p><empty-line /><p><emphasis>adj. </emphasis>having a noticeable effect; impressive 有明显效果的；显著的</p><p>a <strong><emphasis>telling</emphasis></strong> argument 有力的论据</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: affection 
 A: <p><strong>affection </strong>[əˈfekʃn] [同] love [反] coldness</p><p><emphasis>n. </emphasis>a feeling of liking or love and caring 喜爱</p><p>Children need lots of love and <strong><emphasis>affection</emphasis></strong>. 孩子需要多加疼爱和关怀。</p>
@@ -6082,7 +6082,7 @@ Q: tempo
 A: <p><strong>tempo </strong>[ˈtempəʊ] [近] pace</p><p><emphasis>n. </emphasis>speed or rhythm of a piece of music 乐曲的速度或拍子</p><p>Your <strong><emphasis>tempo</emphasis></strong> is too slow. 你的拍子太慢了。</p>
 
 Q: underlying 
-A: <p><strong>underlying </strong>[ˌʌndəˈlaɪɪŋ] [同] fundamental</p><p><emphasis>adj. </emphasis>important in a situation but not always easily noticed or stated clearly 根本的；潜在的</p><p>Unemployment may be an <strong><emphasis>underlying</emphasis></strong> cause of the rising crime rate. 失业可能是犯罪率攀升的潜在原因。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>underlying </strong>[ˌʌndəˈlaɪɪŋ] [同] fundamental</p><p><emphasis>adj. </emphasis>important in a situation but not always easily noticed or stated clearly 根本的；潜在的</p><p>Unemployment may be an <strong><emphasis>underlying</emphasis></strong> cause of the rising crime rate. 失业可能是犯罪率攀升的潜在原因。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: afflict 
 A: <p><strong>afflict </strong>[əˈflɪkt] [反] comfort</p><p><emphasis>v. </emphasis>(fml.) to affect sb./sth. in an unpleasant or harmful way 折磨；使痛苦</p><p>Even Moscow has joined the list of capitals <strong><emphasis>afflicted</emphasis></strong> by congestion and traffic fumes. 连莫斯科也成了受交通堵塞和汽车尾气之苦的首都之一。</p>
@@ -6196,7 +6196,7 @@ Q: simulation
 A: <p><strong>simulation </strong>[ˌsɪmjuˈleɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>the activity of producing conditions which are similar to real ones, especially in order to test sth., or the conditions that are produced 模拟</p><p>Pilots receive additional training by means of computer <strong><emphasis>simulations</emphasis></strong>. 飞行员通过计算机模拟的方式得到辅助培训。</p>
 
 Q: terrace 
-A: <p><strong>terrace </strong>[ˈterəs]</p><empty-line /><p><emphasis>n. </emphasis>① continuous row of similarly designed houses in one block 排房（设计相同的一排房屋）</p><p>② one of a series of flat areas cut out of a hill like steps, and used to grow crops 梯田的一层</p><p>turning a hillside into a series of ascending <strong><emphasis>terraces</emphasis></strong> for farming 把一块山坡变成了一块块种植农作物的梯田</p><p></p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>terrace </strong>[ˈterəs]</p><empty-line /><p><emphasis>n. </emphasis>① continuous row of similarly designed houses in one block 排房（设计相同的一排房屋）</p><p>② one of a series of flat areas cut out of a hill like steps, and used to grow crops 梯田的一层</p><p>turning a hillside into a series of ascending <strong><emphasis>terraces</emphasis></strong> for farming 把一块山坡变成了一块块种植农作物的梯田</p><p></p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: aggravate 
 A: <p><strong>aggravate </strong>[ˈægrəveɪt] [近] intensify [反] improve</p><p><emphasis>v. </emphasis>to make a bad situation, an illness, or an injury worse 使严重；使恶化</p><p>Cutting down the old forests may <strong><emphasis>aggravate</emphasis></strong> global warming. 砍伐年代久远的森林可能会使全球变暖更加严重。</p>
@@ -6421,7 +6421,7 @@ Q: underpin
 A: <p><strong>underpin</strong> [ˌʌndəˈpɪn]</p><empty-line /><p><emphasis>v. </emphasis>to support or form the basis of an argument, a claim, etc. 加强；巩固；构成（基础等）</p><p>The report is <strong><emphasis>underpinned</emphasis></strong> by extensive research. 这份报告以广泛的研究为基础。</p><p></p><empty-line />
 
 Q: validity
-A: <p><strong>validity</strong> [vəˈlɪdəti] [反] ① invalidity</p><p><emphasis>n. </emphasis>① the state of being legally or officially acceptable( 法律上的）有效，合法性 ② beingreasonable and sensible 合理性；正确性</p><p>The period of <strong><emphasis>validity</emphasis></strong> of the agreement has expired. 本协议的有效期已过。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>validity</strong> [vəˈlɪdəti] [反] ① invalidity</p><p><emphasis>n. </emphasis>① the state of being legally or officially acceptable( 法律上的）有效，合法性 ② beingreasonable and sensible 合理性；正确性</p><p>The period of <strong><emphasis>validity</emphasis></strong> of the agreement has expired. 本协议的有效期已过。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: allergy
 A: <p><strong>allergy</strong> [ˈælədʒi]</p><empty-line /><p><emphasis>n. </emphasis>a medical condition that causes you to react badly or feel ill when you eat or touch aparticular substance 过敏</p><p>I have an <strong><emphasis>allergy</emphasis></strong> to animal hair. 我对动物的毛过敏。</p>
@@ -6649,7 +6649,7 @@ Q: tertiary
 A: <p><strong>tertiary </strong>[ˈtɜːʃəri]</p><empty-line /><p><emphasis>adj. </emphasis>third in order, rank, importance, etc.; next after secondary 第三等的；第三位的；第三的</p><p>The only thing about <strong><emphasis>tertiary</emphasis></strong> education on which everyone agrees is that it is a mess. 人们对高等教育的惟一共识就是它简直一团糟。</p>
 
 Q: testimony 
-A: <p><strong>testimony </strong>[ˈtestɪməni]</p><empty-line /><p><emphasis>n</emphasis>.① written or spoken statement declaring that sth. is true, esp. one made under oath 证词（尤指发誓后做出的）② a fact or situation that shows or proves very clearly that sth. exists or is true 证明；证据</p><p>These results are a <strong><emphasis>testimony</emphasis></strong> to the coach's skill and hard work. 这些结果是对教练的技术和勤奋工作的证明。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>testimony </strong>[ˈtestɪməni]</p><empty-line /><p><emphasis>n</emphasis>.① written or spoken statement declaring that sth. is true, esp. one made under oath 证词（尤指发誓后做出的）② a fact or situation that shows or proves very clearly that sth. exists or is true 证明；证据</p><p>These results are a <strong><emphasis>testimony</emphasis></strong> to the coach's skill and hard work. 这些结果是对教练的技术和勤奋工作的证明。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: amass 
 A: <p><strong>amass </strong>[əˈmæs] [同] accumulate [反] distribute</p><p><emphasis>v. </emphasis>to collect sth. esp. in large quantities 积累，积聚</p><p>His fame is derived from the enormous amount of personal wealth he has <strong><emphasis>amassed</emphasis></strong> since hefounded Microsoft. 他的名气来自于他自建立微软以来所积累的巨大的个人财富。</p>
@@ -6763,7 +6763,7 @@ Q: therapy
 A: <p><strong>therapy </strong>[ˈθerəpi]</p><empty-line /><p><emphasis>n. </emphasis>any treatment designed to relieve or cure an illness or a disability 治疗；疗法</p><p>At our clinic, we are beginning to realize the unique benefits of relaxation <strong><emphasis>therapy</emphasis></strong>. 我们的诊所已经开始意识到放松疗法的独特好处。</p>
 
 Q: thorough 
-A: <p></p><empty-line /><p><strong>thorough </strong>[ˈθʌrə] [同] exhaustive, complete</p><p><emphasis>adj. </emphasis>done completely and with great attention to details; not superficial 彻底的；完全的；深入的</p><p>The report was <strong><emphasis>thorough</emphasis></strong> and detailed. 报告全面而细致。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p></p><empty-line /><p><strong>thorough </strong>[ˈθʌrə] [同] exhaustive, complete</p><p><emphasis>adj. </emphasis>done completely and with great attention to details; not superficial 彻底的；完全的；深入的</p><p>The report was <strong><emphasis>thorough</emphasis></strong> and detailed. 报告全面而细致。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: amenity 
 A: <p><strong>amenity </strong>[əˈmiːnəti]</p><empty-line /><p><emphasis>n. </emphasis>a feature that makes a place pleasant, comfortable or easy to live in 生活便利设施</p><p>Many of the houses lacked even basic <strong><emphasis>amenities</emphasis></strong>. 很多房屋甚至缺少基本的生活设施。</p>
@@ -6877,7 +6877,7 @@ Q: unilateral
 A: <p><strong>unilateral </strong>[ˌjuːnɪˈlætrəl]</p><empty-line /><p><emphasis>adj. </emphasis>done by one member of a group or an organization without the agreement of the othermember 单方的</p><p>They were forced to take <strong><emphasis>unilateral</emphasis></strong> action. 他们被迫采取单方面行动。</p>
 
 Q: unique 
-A: <p><strong>unique </strong>[juːˈniːk] [同] peerless</p><p><emphasis>adj. </emphasis>belonging to or connected with one particular person, place or thing（某人、某地或某物）独具的；特有的</p><p>Biometric security systems operate by storing a digitized record of some <strong><emphasis>unique</emphasis></strong> human feature. 生物安全系统是通过对一些人类独具的特征进行数字化记录来运行的。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>unique </strong>[juːˈniːk] [同] peerless</p><p><emphasis>adj. </emphasis>belonging to or connected with one particular person, place or thing（某人、某地或某物）独具的；特有的</p><p>Biometric security systems operate by storing a digitized record of some <strong><emphasis>unique</emphasis></strong> human feature. 生物安全系统是通过对一些人类独具的特征进行数字化记录来运行的。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: anatomy 
 A: <p><strong>anatomy </strong>[əˈnætəmi]</p><empty-line /><p><emphasis>n. </emphasis>the scientific study of the structure of human or animal bodies 解剖学</p><p>The project will reveal a new human <strong><emphasis>anatomy</emphasis></strong>—the complete genetic blueprint for a human. 这个项目将会揭示一个崭新的人体结构，即一个人完整的基因构成。</p>
@@ -6991,7 +6991,7 @@ Q: time-consuming
 A: <p><strong>time-consuming </strong>[ˈtaɪm kənˌsjuːmɪŋ]</p><empty-line /><p><emphasis>adj. </emphasis>taking or needing much time 耗费时间的</p><p>Some of the more <strong><emphasis>time-consuming</emphasis></strong> jobs can now be done by machines. 有些更费时间的工作现在可以用机器做了。</p>
 
 Q: variable 
-A: <p><strong>variable </strong>[ˈveəriəbl] [同] changeable</p><p><emphasis>adj. </emphasis>often changing; likely to change 多变的；变化无常的</p><p><strong><emphasis>variable</emphasis></strong> rainfall/temperature 变化不定的雨量/气温</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>variable </strong>[ˈveəriəbl] [同] changeable</p><p><emphasis>adj. </emphasis>often changing; likely to change 多变的；变化无常的</p><p><strong><emphasis>variable</emphasis></strong> rainfall/temperature 变化不定的雨量/气温</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: appalling 
 A: <p><strong>appalling </strong>[əˈpɔːlɪŋ] [同] fearful, terrible</p><p><emphasis>adj. </emphasis>(infml.) shocking; extremely bad 骇人的；极恶劣的</p><p>Jews were rounded up by the German Nazis and executed under the most <strong><emphasis>appalling</emphasis></strong> and inhuman conditions. 犹太人被德国纳粹驱赶到一起并在极为可怕与残忍的情况下被处死。</p>
@@ -7105,7 +7105,7 @@ Q: wholesale
 A: <p><strong>wholesale </strong>[ˈhəʊlseɪl]</p><empty-line /><p><emphasis>adj. </emphasis>connected with goods that are bought and sold in large quantities, especially so they can be sold again to make a profit 批发的</p><p><strong><emphasis>wholesale</emphasis></strong> goods/prices 批发货物/价格</p>
 
 Q: wide-ranging 
-A: <p><strong>wide-ranging </strong>[ˌwaɪdˈreɪndʒɪŋ]</p><empty-line /><p><emphasis>adj. </emphasis>including or dealing with a large number of different subjects or areas 覆盖面广的；内容广泛的</p><p>The commission has been given <strong><emphasis>wide-ranging</emphasis></strong> powers. 委员会被授予的权限很广。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>wide-ranging </strong>[ˌwaɪdˈreɪndʒɪŋ]</p><empty-line /><p><emphasis>adj. </emphasis>including or dealing with a large number of different subjects or areas 覆盖面广的；内容广泛的</p><p>The commission has been given <strong><emphasis>wide-ranging</emphasis></strong> powers. 委员会被授予的权限很广。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: appliance 
 A: <p><strong>appliance </strong>[əˈplaɪəns] [同] device</p><p><emphasis>n. </emphasis>instrument or device for a specific purpose 工具；器具</p><p>a kitchen full of electrical <strong><emphasis>appliances</emphasis></strong> 有各种电器的厨房</p>
@@ -7219,7 +7219,7 @@ Q: unparalleled
 A: <p><strong>unparalleled </strong>[ˌʌnˈpærəleld] [同] matchless</p><p><emphasis>adj. </emphasis>(fml.) used to emphasize that sth. is bigger, better or worse than anything else like it 无比的；绝无仅有的</p><p>The book has enjoyed a success <strong><emphasis>unparalleled</emphasis></strong> in recent publishing history. 这本书在近期出版史上是空前的成功。</p>
 
 Q: unprecedented 
-A: <p><strong>unprecedented </strong>[ˌʌnˈpresɪdentɪd]</p><empty-line /><p><emphasis>adj. </emphasis>that has never happened, been done or been known before 前所未有的；史无前例的</p><p>The situation is <strong><emphasis>unprecedented</emphasis></strong> in modern times. 这种情况在现代还没有出现过。</p><empty-line /><p>——德国哲学家叔本华<emphasis>(</emphasis>Arthur Schopenhauer, German philosopher<emphasis>)</emphasis></p><empty-line /><p><emphasis></emphasis></p><empty-line /><empty-line /><p>
+A: <p><strong>unprecedented </strong>[ˌʌnˈpresɪdentɪd]</p><empty-line /><p><emphasis>adj. </emphasis>that has never happened, been done or been known before 前所未有的；史无前例的</p><p>The situation is <strong><emphasis>unprecedented</emphasis></strong> in modern times. 这种情况在现代还没有出现过。</p><empty-line /><p>——德国哲学家叔本华<emphasis>(</emphasis>Arthur Schopenhauer, German philosopher<emphasis>)</emphasis></p><empty-line /><p><emphasis></emphasis></p><empty-line />
 
 Q: approval 
 A: <p><strong>approval </strong>[əˈpruːvl] [同] approbation [反] disapproval</p><p><emphasis>n. </emphasis>feeling or showing that one thinks sth. is good or acceptable or satisfactory 赞同；同意</p><p>give one's <strong><emphasis>approval</emphasis></strong> 表示同意</p>
@@ -7333,7 +7333,7 @@ Q: unrealistic
 A: <p><strong>unrealistic </strong>[ˌʌnriəˈlɪstɪk] [反] inpractical</p><p><emphasis>adj. </emphasis>not showing or accepting things as they are 不切实际的；不实事求是的</p><p>It is <strong><emphasis>unrealistic</emphasis></strong> to expect them to be able to solve the problem immediately. 指望他们能够立即解决问题是不现实的。</p>
 
 Q: unveil 
-A: <p><strong>unveil </strong>[ʌnˈveɪl] [同] ①②disclose [反] ①②veil</p><p><emphasis>v. </emphasis>① to show or tell people about a new product or plan for the first time 首次公布 ② to remove the cover from sth., especially as part of a formal ceremony 揭幕；揭牌</p><p>The government has <strong><emphasis>unveiled</emphasis></strong> its plans for low-income housing. 政府已公布了经济适用房的开发计划。</p><p></p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>unveil </strong>[ʌnˈveɪl] [同] ①②disclose [反] ①②veil</p><p><emphasis>v. </emphasis>① to show or tell people about a new product or plan for the first time 首次公布 ② to remove the cover from sth., especially as part of a formal ceremony 揭幕；揭牌</p><p>The government has <strong><emphasis>unveiled</emphasis></strong> its plans for low-income housing. 政府已公布了经济适用房的开发计划。</p><p></p><empty-line /><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: arable 
 A: <p><strong>arable </strong>[ˈærəbl] [同] cultivable</p><p><emphasis>adj. </emphasis>suitable for ploughing and for growing crops（土地）适于耕作的</p><p><strong><emphasis>arable</emphasis></strong> land 可耕的土地</p>
@@ -7447,7 +7447,7 @@ Q: trail
 A: <p><strong>trail </strong>[treɪl] [同] ① track ② drag</p><p>① <emphasis>n. </emphasis>mark or sign in the form of a long line left by sth. or sb. passing by 痕迹；足迹；踪迹</p><p>vapour <strong><emphasis>trails</emphasis></strong>, e.g. those left in the sky by high-flying aircraft 蒸汽尾迹（如飞机在高空飞行留下的）</p><p>②<emphasis>v. </emphasis>(cause sth. ) to be dragged behind（使某物）被拖在后面</p><p>Her long skirt was <strong><emphasis>trailing</emphasis></strong> along the floor. 她的长裙拖在了地板上。</p>
 
 Q: wilderness 
-A: <p><strong>wilderness </strong>[ˈwɪldənəs] [同] wasteland</p><p><emphasis>n. </emphasis>a large area of land that has never been developed or used for growing crops because it is difficult to live there 未开发的地区；荒无人烟的地区</p><p>The Antarctic is the world's last great <strong><emphasis>wilderness</emphasis></strong>. 南极地区是世界上最后一块巨大的未开发地区。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p><empty-line /><p>
+A: <p><strong>wilderness </strong>[ˈwɪldənəs] [同] wasteland</p><p><emphasis>n. </emphasis>a large area of land that has never been developed or used for growing crops because it is difficult to live there 未开发的地区；荒无人烟的地区</p><p>The Antarctic is the world's last great <strong><emphasis>wilderness</emphasis></strong>. 南极地区是世界上最后一块巨大的未开发地区。</p><empty-line /><p><strong></strong></p><empty-line /><p><strong></strong></p>
 
 Q: arena 
 A: <p><strong>arena </strong>[əˈriːnə]</p><empty-line /><p><emphasis>n. </emphasis>(fig.) place or scene of activity or conflict 活动或斗争的场所或场面</p><p>More and more graduates flood the job market <strong><emphasis>arena</emphasis></strong> on a yearly basis and chase an everdiminishing number of jobs. 每一年都有越来越多的毕业生涌入就业市场去竞争日益减少的工作。</p>
@@ -7561,7 +7561,7 @@ Q: unyielding
 A: <p><strong>unyielding </strong>[ˌʌnˈjiːldɪŋ] [反] yielding</p><p><emphasis>adj. </emphasis>be not easily influenced and unlikely to change 坚定的；固执的</p><p>severe <strong><emphasis>unyielding</emphasis></strong> parents 严厉固执的父母</p>
 
 Q: urbanisation 
-A: <p><strong>urbanisation </strong>[ˌɜːbənaɪˈzeiʃn]</p><empty-line /><p><emphasis>n. </emphasis>(AmE urbanization) the process of being urbanized 都市化，文雅化</p><p>In the past 30 years China has speeded up <strong><emphasis>urbanisation</emphasis></strong>. 在过去的30年间，中国加快了城市化进程。</p><p></p><empty-line /><empty-line /><p>——德国哲学家康德<emphasis>. I.(Immanuel Kant, German Philosopher)</emphasis></p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>urbanisation </strong>[ˌɜːbənaɪˈzeiʃn]</p><empty-line /><p><emphasis>n. </emphasis>(AmE urbanization) the process of being urbanized 都市化，文雅化</p><p>In the past 30 years China has speeded up <strong><emphasis>urbanisation</emphasis></strong>. 在过去的30年间，中国加快了城市化进程。</p><p></p><empty-line /><empty-line /><p>——德国哲学家康德<emphasis>. I.(Immanuel Kant, German Philosopher)</emphasis></p><empty-line /><empty-line />
 
 Q: array 
 A: <empty-line /><p><strong>array </strong>[əˈreɪ] [同] display</p><p><emphasis>n. </emphasis>impressive display or series 展示；显示；一系列</p><p>From a disorderly <strong><emphasis>array</emphasis></strong> of factual information an orderly, relevant theory will somehow emerge. 从一些混乱的事实性信息中，一个有条理的相关理论可能会以某种方式浮现出来。</p>
@@ -7675,7 +7675,7 @@ Q: transition
 A: <p><strong>transition </strong>[trænˈzɪʃn] [同] shift</p><p><emphasis>n. </emphasis>(instance of) changing from one state or condition to another 过渡；转变；变迁</p><p>the <strong><emphasis>transition</emphasis></strong> from childhood to adult life 从童年到成年的过渡阶段</p>
 
 Q: utensil 
-A: <p><strong>utensil </strong>[juːˈtensl] [同] implement</p><p><emphasis>n. </emphasis>a tool that is used in the house（家庭）用具；器皿</p><p>cooking/kitchen <strong><emphasis>utensils</emphasis></strong> 炊具/厨房用具</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>utensil </strong>[juːˈtensl] [同] implement</p><p><emphasis>n. </emphasis>a tool that is used in the house（家庭）用具；器皿</p><p>cooking/kitchen <strong><emphasis>utensils</emphasis></strong> 炊具/厨房用具</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: articulate 
 A: <p><strong>articulate </strong>[ɑːˈtɪkjʊleɪt]</p><empty-line /><p>① <emphasis>adj. </emphasis>able to talk easily and effectively about things, especially difficult subjects 善于表达的；口齿伶俐的</p><p>You have to be <strong><emphasis>articulate</emphasis></strong> to be good at debating. 善辩者得口齿伶俐。</p><p>② <emphasis>v. </emphasis>speak clearly and distinctly 清楚明白地说（某事）</p>
@@ -7789,7 +7789,7 @@ Q: wildlife
 A: <p><strong>wildlife </strong>[ˈwaɪldlaɪf]</p><empty-line /><p><emphasis>n. </emphasis>animals, birds, insects, etc. that are wild and live in a natural environment 野生动物；野生生物</p><p>Development of the area would endanger <strong><emphasis>wildlife</emphasis></strong>. 开发这一地区将会危及野生生物。</p>
 
 Q: withstand 
-A: <p><strong>withstand </strong>[wɪðˈstænd] [同] sustain</p><p><emphasis>v. </emphasis>(fml.) to be strong enough not to be hurt or damaged by extreme conditions, the use of force, etc. 承受；经受住</p><p>They had <strong><emphasis>withstood</emphasis></strong> siege, hunger and deprivation. 他们经受了围困、饥饿和贫穷。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>withstand </strong>[wɪðˈstænd] [同] sustain</p><p><emphasis>v. </emphasis>(fml.) to be strong enough not to be hurt or damaged by extreme conditions, the use of force, etc. 承受；经受住</p><p>They had <strong><emphasis>withstood</emphasis></strong> siege, hunger and deprivation. 他们经受了围困、饥饿和贫穷。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: assert 
 A: <empty-line /><p><strong>assert </strong>[əˈsɜːt] [同] maintain</p><p><emphasis>v. </emphasis>to make others recognize (sth.) by behaving firmly and confidently 坚定而有信心地使别人认识到（某事物）；坚持</p><p>An autocratic leader is a manager who <strong><emphasis>asserts</emphasis></strong> his or her authority in an autocratic manner. 一个专制的领导是以一种专制的方式维持着他（或她）的权威的管理者。</p>
@@ -7903,7 +7903,7 @@ Q: utility
 A: <p><strong>utility </strong>[juːˈtɪləti] [同] use</p><p><emphasis>n. </emphasis>(fml.) the quality of being useful 实用；效用</p><p>I have severe doubts about the <strong><emphasis>utility</emphasis></strong> of examinations on subjects which have been learned parrot-fashion. 我很怀疑对那些通过鹦鹉学舌一样机械模仿学来的科目进行考试到底有什么用。</p>
 
 Q: variation 
-A: <p><strong>variation </strong>[ˌveərɪˈeɪʃn] [同] change, alteration</p><p><emphasis>n. </emphasis>the act, process, or result of varying 变化，变更</p><p>Human genetic similarity greatly outweighs the <strong><emphasis>variations</emphasis></strong>. 人类遗传的相似性远远大于其变异性。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>variation </strong>[ˌveərɪˈeɪʃn] [同] change, alteration</p><p><emphasis>n. </emphasis>the act, process, or result of varying 变化，变更</p><p>Human genetic similarity greatly outweighs the <strong><emphasis>variations</emphasis></strong>. 人类遗传的相似性远远大于其变异性。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: assimilate 
 A: <empty-line /><p><strong>assimilate </strong>[əˈsɪməleɪt] [同] absorb</p><p><emphasis>v. </emphasis>(cause sth.) to become absorbed into the body after digestion（使某物）经消化而吸收</p><p>Some foods <strong><emphasis>assimilate</emphasis></strong>/are <strong><emphasis>assimilated</emphasis></strong> more easily than others. 有些食物比另一些食物更容易吸收。</p>
@@ -8017,7 +8017,7 @@ Q: turbulent
 A: <p><strong>turbulent </strong>[ˈtɜːbjʊlənt] [同] disorderly</p><p><emphasis>adj. </emphasis>in which there is a lot of sudden change, confusion, disagreement and sometimes violence 动乱的；混乱的</p><p>a <strong><emphasis>turbulent</emphasis></strong> part of the world 世界上动荡不安的地区</p>
 
 Q: vegetation 
-A: <p><strong>vegetation </strong>[ˌvedʒɪˈteɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>plants in general, esp. the plants that are found in a particular area or environment（统称）植物；（尤指某地或环境的）植被，植物群落</p><p>The samples are also analyzed to assess the ability of the soil or subsoil material to support <strong><emphasis>vegetation</emphasis></strong>. 这些样本的分析也是为了评估表层土壤和下层土壤保护植被的能力。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>vegetation </strong>[ˌvedʒɪˈteɪʃn]</p><empty-line /><p><emphasis>n. </emphasis>plants in general, esp. the plants that are found in a particular area or environment（统称）植物；（尤指某地或环境的）植被，植物群落</p><p>The samples are also analyzed to assess the ability of the soil or subsoil material to support <strong><emphasis>vegetation</emphasis></strong>. 这些样本的分析也是为了评估表层土壤和下层土壤保护植被的能力。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: asymmetry 
 A: <p><strong>asymmetry </strong>[ˌeɪˈsɪmətri] [反] symmetry</p><p><emphasis>n. </emphasis>state of not having parts that correspond to each other in size, shape, etc.; lacking symmetry 不对称</p><p>Two American researchers studied the brains of human embryos and discovered that the leftright <strong><emphasis>asymmetry</emphasis></strong> exists before birth. 两位美国研究人员研究了人类胚胎的大脑，发现了脑部的左右不对称现象在出生前就已经存在。</p>
@@ -8131,7 +8131,7 @@ Q: womb
 A: <p><strong>womb </strong>[wuːm]</p><empty-line /><p><emphasis>n. </emphasis>the organ in women and female animals in which babies develop before they are born 子宫</p><p>from the <strong><emphasis>womb</emphasis></strong> to the tomb 从生到死</p>
 
 Q: wording 
-A: <p></p><empty-line /><p><strong>wording </strong>[ˈwɜːdɪŋ] [同] diction</p><p><emphasis>n. </emphasis>the words that are used in a piece of writing or speech, esp. when they have been carefully chosen 措辞；用词</p><p>The <strong><emphasis>wording</emphasis></strong> was deliberately ambiguous. 这里的措辞故意模棱两可。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p></p><empty-line /><p><strong>wording </strong>[ˈwɜːdɪŋ] [同] diction</p><p><emphasis>n. </emphasis>the words that are used in a piece of writing or speech, esp. when they have been carefully chosen 措辞；用词</p><p>The <strong><emphasis>wording</emphasis></strong> was deliberately ambiguous. 这里的措辞故意模棱两可。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: auction 
 A: <p><strong>auction </strong>[ˈɔːkʃn]</p><empty-line /><p><emphasis>n. </emphasis>method of selling things in which each item is sold to the person who offers the most money for it 拍卖（方式）</p><p>The house will be sold by <strong><emphasis>auction</emphasis></strong>. 这所房子将要拍卖。</p>
@@ -8353,7 +8353,7 @@ Q: vicinity
 A: <p><strong>vicinity </strong>[vɪˈsɪnətɪ] [同] neighbourhood</p><p><emphasis>n. </emphasis>the area around a particular place 周围地区；附近</p><p>There is no hospital in the immediate <strong><emphasis>vicinity</emphasis></strong>. 附近没有医院。</p>
 
 Q: zest 
-A: <p><strong>zest </strong>[zest] [同] enthusiasm</p><p><emphasis>n. </emphasis>enjoyment and enthusiasm 热情；狂热</p><p>He had a great <strong><emphasis>zest</emphasis></strong> for life. 他对生活有着极大的热情。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line /><empty-line /><p>
+A: <p><strong>zest </strong>[zest] [同] enthusiasm</p><p><emphasis>n. </emphasis>enjoyment and enthusiasm 热情；狂热</p><p>He had a great <strong><emphasis>zest</emphasis></strong> for life. 他对生活有着极大的热情。</p><empty-line /><p>___________________________________</p><empty-line /><empty-line />
 
 Q: authorize 
 A: <p><strong>authorize </strong>[ˈɔːθəraɪz] [同] commission, accredit</p><p><emphasis>v. </emphasis>to give authority to (sb.) 授权；委任；委托</p><p>I have <strong><emphasis>authorized</emphasis></strong> him to act for me while I am away. 我已经委托他当我不在时代我处理事务。</p>
